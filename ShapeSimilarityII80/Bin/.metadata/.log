@@ -1,0 +1,32 @@
+!SESSION 2009-05-27 00:21:29.237 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=es_ES
+Framework arguments:  -keyring /Users/jon/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/jon/Dropbox/C4R2/RecFormas/Bin -keyring /Users/jon/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-05-27 00:21:34.807
+!MESSAGE System property http.proxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2009-05-27 00:21:34.808
+!MESSAGE System property http.proxyPort has been set to 8228 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2009-05-27 00:21:34.817
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-08-20 13:05:57.207 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.5.0_19
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=es_ES
+Framework arguments:  -keyring /Users/jon/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Users/jon/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-08-20 13:06:14.763
+!MESSAGE System property http.proxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2009-08-20 13:06:14.782
+!MESSAGE System property http.proxyPort has been set to 8228 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2009-08-20 13:06:14.796
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

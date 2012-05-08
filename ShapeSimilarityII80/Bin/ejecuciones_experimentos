@@ -1,0 +1,96 @@
+./RecFormas -fDC Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_CNDs_para_ordenar
+
+./RecFormas -fDC Glas-20 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 > Glas_todos_CNDs_para_ordenar_empieza_Glas-20
+
+./RecFormas -fDC Bone-1.bmp Bone-12 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_CNDs_para_ordenar_con_Bone-1-12
+
+--------------------------------------------------------------
+
+./RecFormas -fDC Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_intervalar_para_ordenar
+
+./RecFormas -fDC Glas-20 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 > Glas_todos_intervalar_para_ordenar_empieza_Glas-20
+
+./RecFormas -fDC Bone-1.bmp Bone-12 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_intervalar_para_ordenar_con_Bone-1-12
+
+-----------------------------------------------------------------
+
+./RecFormas -fCD brick/brick-01.gif brick/brick-02.gif brick/brick-04.gif brick/brick-05.gif brick/brick-06.gif brick/brick-07.gif brick/brick-08.gif brick/brick-09.gif brick/brick-10.gif brick/brick-11.gif brick/brick-11.gif brick/brick-12.gif brick/brick-13.gif brick/brick-14.gif brick/brick-15.gif brick/brick-16.gif brick/brick-17.gif brick/brick-18.gif brick/brick-19.gif brick/brick-20.gif > Bricks
+
+
+./RecFormas -fCD hammer/hammer-1.gif hammer/hammer-2.gif hammer/hammer-3.gif hammer/hammer-4.gif hammer/hammer-5.gif hammer/hammer-6.gif hammer/hammer-7.gif hammer/hammer-8.gif hammer/hammer-9.gif hammer/hammer-10.gif hammer/hammer-11.gif hammer/hammer-11.gif hammer/hammer-12.gif hammer/hammer-13.gif hammer/hammer-14.gif hammer/hammer-15.gif hammer/hammer-16.gif hammer/hammer-17.gif hammer/hammer-18.gif hammer/hammer-19.gif hammer/hammer-20.gif > hammers_int
+**Quitar 16, 18 y 19?
+
+
+./RecFormas -fCD Heart/Heart-1.jpg Heart/Heart-2.jpg Heart/Heart-3.jpg Heart/Heart-4.jpg Heart/Heart-5.jpg Heart/Heart-6.jpg Heart/Heart-7.jpg Heart/Heart-8.jpg Heart/Heart-9.jpg Heart/Heart-10.jpg Heart/Heart-11.jpg Heart/Heart-11.jpg Heart/Heart-12.jpg Heart/Heart-13.jpg Heart/Heart-14.jpg Heart/Heart-15.jpg Heart/Heart-16.jpg Heart/Heart-17.jpg Heart/Heart-18.jpg Heart/Heart-19.jpg Heart/Heart-20.jpg > Hearts_int
+
+
+***Con curvas se puede utilitzar!!***
+./RecFormas -fD apple/apple-1.gif apple/apple-2.gif apple/apple-3.gif apple/apple-4.gif apple/apple-5.gif apple/apple-6.gif apple/apple-7.gif apple/apple-8.gif apple/apple-9.gif apple/apple-10.gif apple/apple-11.gif apple/apple-11.gif apple/apple-12.gif apple/apple-13.gif apple/apple-14.gif apple/apple-15.gif apple/apple-16.gif apple/apple-17.gif apple/apple-18.gif apple/apple-19.gif apple/apple-20.gif > apples_int
+
+
+-----------------------
+COMPARACIONES
+-----------------------
+
+./RecFormas -fCD Bone-1.bmp Bone-12 Glas-1 Glas-20 brick-01.gif brick-15.gif hammer-1.gif hammer-12.gif Heart-1.jpg Heart-18.jpg Heart-20.jpg > rdos_comparacion
+
+
+
+
+
+
+
+********
+NOOOOOO
+********
+
+***Se atasca***
+./RecFormas -fCD cup/cup-1.gif cup/cup-2.gif cup/cup-3.gif cup/cup-4.gif cup/cup-5.gif cup/cup-6.gif cup/cup-7.gif cup/cup-8.gif cup/cup-9.gif cup/cup-10.gif cup/cup-11.gif cup/cup-11.gif cup/cup-12.gif cup/cup-13.gif cup/cup-14.gif cup/cup-15.gif cup/cup-16.gif cup/cup-17.gif cup/cup-18.gif cup/cup-19.gif cup/cup-20.gif > cups_int
+
+
+
+***Sale solo 1 objeto, necesito 2 objetos, por eso utilizo .jpegs***
+./RecFormas -fCD Heart/Heart-1.gif Heart/Heart-2.gif Heart/Heart-3.gif Heart/Heart-4.gif Heart/Heart-5.gif Heart/Heart-6.gif Heart/Heart-7.gif Heart/Heart-8.gif Heart/Heart-9.gif Heart/Heart-10.gif Heart/Heart-11.gif Heart/Heart-11.gif Heart/Heart-12.gif Heart/Heart-13.gif Heart/Heart-14.gif Heart/Heart-15.gif Heart/Heart-16.gif Heart/Heart-17.gif Heart/Heart-18.gif Heart/Heart-19.gif Heart/Heart-20.gif > Hearts_int
+
+***Se atasca***
+./RecFormas -fCD teddy/teddy-01.gif teddy/teddy-02.gif teddy/teddy-03.gif teddy/teddy-04.gif teddy/teddy-05.gif teddy/teddy-06.gif teddy/teddy-07.gif teddy/teddy-08.gif teddy/teddy-09.gif teddy/teddy-10.gif teddy/teddy-11.gif teddy/teddy-11.gif teddy/teddy-12.gif teddy/teddy-13.gif teddy/teddy-14.gif teddy/teddy-15.gif teddy/teddy-16.gif teddy/teddy-17.gif teddy/teddy-18.gif teddy/teddy-19.gif teddy/teddy-20.gif > teddy_int
+
+
+***Similitudes demasiado bajas***
+./RecFormas -fD teddy/teddy-02.gif teddy/teddy-03.gif teddy/teddy-05.gif teddy/teddy-08.gif teddy/teddy-09.gif teddy/teddy-10.gif teddy/teddy-12.gif teddy/teddy-18.gif > teddy_int_curvas
+
+
+***Imatges cadascuna d'un tamany, produix fallo de segmentacion***
+./RecFormas -fCD fish/lmfish-1.gif fish/lmfish-2.gif fish/lmfish-3.gif fish/lmfish-4.gif fish/lmfish-5.gif fish/lmfish-6.gif fish/lmfish-7.gif fish/lmfish-8.gif fish/lmfish-9.gif fish/lmfish-10.gif fish/lmfish-11.gif fish/lmfish-11.gif fish/lmfish-12.gif fish/lmfish-13.gif fish/lmfish-14.gif fish/lmfish-15.gif fish/lmfish-16.gif fish/lmfish-17.gif fish/lmfish-18.gif fish/lmfish-19.gif fish/lmfish-20.gif > lmfishs_int
+
+
+*** Se atasca, tarda demasiado ***
+./RecFormas -fCD chopper/chopper-01.gif chopper/chopper-02.gif chopper/chopper-03.gif chopper/chopper-04.gif chopper/chopper-05.gif chopper/chopper-06.gif chopper/chopper-07.gif chopper/chopper-08.gif chopper/chopper-09.gif chopper/chopper-10.gif chopper/chopper-11.gif chopper/chopper-11.gif chopper/chopper-12.gif chopper/chopper-13.gif chopper/chopper-14.gif chopper/chopper-15.gif chopper/chopper-16.gif chopper/chopper-17.gif chopper/chopper-18.gif chopper/chopper-19.gif chopper/chopper-20.gif > choppers
+
+
+
+***No sirve, se atasca***
+./RecFormas -fCD carriage/carriage-01.gif carriage/carriage-02.gif carriage/carriage-03.gif carriage/carriage-05.gif carriage/carriage-06.gif carriage/carriage-07.gif carriage/carriage-08.gif carriage/carriage-09.gif carriage/carriage-10.gif carriage/carriage-11.gif carriage/carriage-11.gif carriage/carriage-12.gif carriage/carriage-13.gif carriage/carriage-14.gif carriage/carriage-15.gif carriage/carriage-16.gif carriage/carriage-17.gif carriage/carriage-18.gif carriage/carriage-19.gif carriage/carriage-20.gif > carriages_int
+
+
+***No sirve, tarda demasiado***
+./RecFormas -fCD watch/watch-1.gif watch/watch-2.gif watch/watch-4.gif watch/watch-5.gif watch/watch-6.gif watch/watch-7.gif watch/watch-8.gif watch/watch-9.gif watch/watch-10.gif watch/watch-11.gif watch/watch-11.gif watch/watch-12.gif watch/watch-13.gif watch/watch-14.gif watch/watch-15.gif watch/watch-16.gif watch/watch-17.gif watch/watch-18.gif watch/watch-19.gif watch/watch-20.gif > watchs_int
+
+
+***No sirve, demasiado pocos puntos***
+./RecFormas -fCD bottle/bottle-01.gif bottle/bottle-02.gif bottle/bottle-03.gif bottle/bottle-04.gif bottle/bottle-05.gif bottle/bottle-06.gif bottle/bottle-07.gif bottle/bottle-08.gif bottle/bottle-09.gif bottle/bottle-10.gif bottle/bottle-11.gif bottle/bottle-11.gif bottle/bottle-12.gif bottle/bottle-13.gif bottle/bottle-14.gif bottle/bottle-15.gif bottle/bottle-16.gif bottle/bottle-17.gif bottle/bottle-18.gif bottle/bottle-19.gif bottle/bottle-20.gif > bottles_int
+
+
+***No sirve, ptos relevantes muy variables y rdos muy variables***
+./RecFormas -fCD pencil/pencil-1.jpg pencil/pencil-2.jpg pencil/pencil-4.jpg pencil/pencil-5.jpg pencil/pencil-6.jpg pencil/pencil-7.jpg pencil/pencil-8.jpg pencil/pencil-9.jpg pencil/pencil-10.jpg pencil/pencil-11.jpg pencil/pencil-11.jpg pencil/pencil-12.jpg pencil/pencil-13.jpg pencil/pencil-14.jpg pencil/pencil-15.jpg pencil/pencil-16.jpg pencil/pencil-17.jpg pencil/pencil-18.jpg pencil/pencil-19.jpg pencil/pencil-20.jpg > pencils
+
+***No sirve, ptos relevantes muy variables y rdos muy variables***
+./RecFormas -fCD phone/phone-1.gif phone/phone-2.gif phone/phone-4.gif phone/phone-5.gif phone/phone-6.gif phone/phone-7.gif phone/phone-8.gif phone/phone-9.gif phone/phone-10.gif phone/phone-11.gif phone/phone-11.gif phone/phone-12.gif phone/phone-13.gif phone/phone-14.gif phone/phone-15.gif phone/phone-16.gif phone/phone-17.gif phone/phone-18.gif phone/phone-19.gif phone/phone-20.gif > phones_int
+
+
+***No sirve, tarda demasiado, demasiados ptos relevantes***
+./RecFormas -fCD rat/rat-01.gif rat/rat-02.gif rat/rat-03.gif rat/rat-04.gif rat/rat-05.gif rat/rat-06.gif rat/rat-07.gif rat/rat-08.gif rat/rat-09.gif rat/rat-10.gif rat/rat-11.gif rat/rat-11.gif rat/rat-12.gif rat/rat-13.gif rat/rat-14.gif rat/rat-15.gif rat/rat-16.gif rat/rat-17.gif rat/rat-18.gif rat/rat-19.gif rat/rat-20.gif > rats_int
+
+
+./RecFormas -fCD key/key-1.gif key/key-2.gif key/key-4.gif key/key-5.gif key/key-6.gif key/key-7.gif key/key-8.gif key/key-9.gif key/key-10.gif key/key-11.gif key/key-11.gif key/key-12.gif key/key-13.gif key/key-14.gif key/key-15.gif key/key-16.gif key/key-17.gif key/key-18.gif key/key-19.gif key/key-20.gif > keys_int
+

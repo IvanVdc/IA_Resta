@@ -1,0 +1,1249 @@
+**** Comparacion de la imagen ../images/Bone-1.bmp ****
+
+Con la imagen ../images/Bone-1.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-2.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 99.3194
+
+Con la imagen ../images/Bone-3.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 98.9236
+
+Con la imagen ../images/Bone-4.bmp
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 1
+Similitud: 93.5417
+
+Con la imagen ../images/Bone-5.bmp
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 16
+Similitud: 93.4306
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 11}
+Vertice de inicio de la f2: 15
+Similitud: 88.5556
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 89.3875
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 89.0312
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.6736
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.2778
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 92.3264
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 84.6389
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 98.0208
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {0, 4, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 76.5903
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 4, 6, 12, 15}
+Vertice de inicio de la f2: 0
+Similitud: 70.1458
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {0, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.6042
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 16, 18}
+Vertice de inicio de la f2: 1
+Similitud: 81.0795
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 2, 3, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 65.4792
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 1
+Similitud: 93.1776
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 2, 4, 6, 11, 13, 14}
+Vertice de inicio de la f2: 10
+Similitud: 59.7986
+
+**** Comparacion de la imagen ../images/Bone-2.bmp ****
+
+Con la imagen ../images/Bone-2.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-3.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 98.6875
+
+Con la imagen ../images/Bone-4.bmp
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 1
+Similitud: 93.4167
+
+Con la imagen ../images/Bone-5.bmp
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 16
+Similitud: 93.4167
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 11}
+Vertice de inicio de la f2: 15
+Similitud: 88.2708
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 88.975
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 89.0188
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.2153
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.0417
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 91.8681
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 84.75
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 98.1319
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 4, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 76.7014
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 4, 6, 12, 15}
+Vertice de inicio de la f2: 0
+Similitud: 70.2708
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.7153
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 16, 18}
+Vertice de inicio de la f2: 1
+Similitud: 80.5227
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 2, 3, 4, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 65.2431
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 1
+Similitud: 93.0724
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 2, 4, 6, 11, 13, 14}
+Vertice de inicio de la f2: 10
+Similitud: 60.0208
+
+**** Comparacion de la imagen ../images/Bone-3.bmp ****
+
+Con la imagen ../images/Bone-3.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-4.bmp
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 1
+Similitud: 93.1944
+
+Con la imagen ../images/Bone-5.bmp
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 16
+Similitud: 93.0208
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 2}
+Vertice de inicio de la f2: 8
+Similitud: 87.8125
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 88.8188
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 1
+Similitud: 88.6625
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.9583
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 96.8681
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 91.5972
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 84.1319
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 97.6111
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {7, 10, 14, 15}
+Vertice de inicio de la f2: 6
+Similitud: 76.3681
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {4, 6, 9, 12, 15}
+Vertice de inicio de la f2: 6
+Similitud: 69.75
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.2569
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 16, 18}
+Vertice de inicio de la f2: 1
+Similitud: 80.1989
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 2, 3, 4, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 65.5417
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 1
+Similitud: 92.3684
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {2, 3, 4, 6, 11, 13, 14}
+Vertice de inicio de la f2: 10
+Similitud: 59.9722
+
+**** Comparacion de la imagen ../images/Bone-4.bmp ****
+
+Con la imagen ../images/Bone-4.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-5.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 15
+Similitud: 92.7941
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 1
+EMPTYs: {2}
+Vertice de inicio de la f2: 7
+Similitud: 92.7426
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 3
+EMPTYs: {6, 16, 19}
+Vertice de inicio de la f2: 1
+Similitud: 83.675
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 3
+EMPTYs: {0, 6, 16}
+Vertice de inicio de la f2: 2
+Similitud: 84.0312
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 2
+Similitud: 91.9931
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 1
+EMPTYs: {16}
+Vertice de inicio de la f2: 1
+Similitud: 92.1667
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 1
+Similitud: 89.3889
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 1
+Similitud: 81.9236
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 1
+Similitud: 92.8472
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 3
+EMPTYs: {4, 6, 16}
+Vertice de inicio de la f2: 13
+Similitud: 80.6765
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 4
+EMPTYs: {4, 6, 14, 15}
+Vertice de inicio de la f2: 12
+Similitud: 73.8015
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 1
+EMPTYs: {16}
+Vertice de inicio de la f2: 15
+Similitud: 92.2206
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 5
+EMPTYs: {5, 7, 17, 18, 21}
+Vertice de inicio de la f2: 1
+Similitud: 75.7955
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 2, 3, 6, 16}
+Vertice de inicio de la f2: 11
+Similitud: 69.4485
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 2
+EMPTYs: {15, 18}
+Vertice de inicio de la f2: 1
+Similitud: 87.2697
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 2, 6, 11, 12, 13}
+Vertice de inicio de la f2: 9
+Similitud: 63.25
+
+**** Comparacion de la imagen ../images/Bone-5.bmp ****
+
+Con la imagen ../images/Bone-5.bmp
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 9
+Similitud: 92.1397
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 3
+EMPTYs: {3, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 84.075
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 3
+EMPTYs: {3, 6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 84.1187
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 1
+EMPTYs: {2}
+Vertice de inicio de la f2: 0
+Similitud: 92.0069
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 0
+Similitud: 92.3889
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 0
+Similitud: 89.6597
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 0
+Similitud: 82.1944
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 0
+Similitud: 92.4514
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 3
+EMPTYs: {4, 14, 16}
+Vertice de inicio de la f2: 0
+Similitud: 81.0294
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 4
+EMPTYs: {0, 4, 10, 13}
+Vertice de inicio de la f2: 1
+Similitud: 73.7353
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 1
+EMPTYs: {8}
+Vertice de inicio de la f2: 9
+Similitud: 86.8309
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 5
+EMPTYs: {3, 6, 7, 16, 18}
+Vertice de inicio de la f2: 0
+Similitud: 75.7557
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 1, 3, 4, 14}
+Vertice de inicio de la f2: 1
+Similitud: 69.3309
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 2
+EMPTYs: {3, 15}
+Vertice de inicio de la f2: 0
+Similitud: 87.375
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 4, 9, 11, 12, 16}
+Vertice de inicio de la f2: 10
+Similitud: 63.3676
+
+**** Comparacion de la imagen ../images/Bone-6.jpg ****
+
+Con la imagen ../images/Bone-6.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 4
+EMPTYs: {6, 10, 11, 16}
+Vertice de inicio de la f2: 0
+Similitud: 79.2875
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 2, 6, 16}
+Vertice de inicio de la f2: 9
+Similitud: 79.0875
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 11}
+Vertice de inicio de la f2: 0
+Similitud: 87.1944
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 13}
+Vertice de inicio de la f2: 0
+Similitud: 86.1667
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 17}
+Vertice de inicio de la f2: 8
+Similitud: 83.0903
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 12}
+Vertice de inicio de la f2: 0
+Similitud: 76.0347
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 2
+EMPTYs: {10, 13}
+Vertice de inicio de la f2: 0
+Similitud: 87.0208
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 12}
+Vertice de inicio de la f2: 7
+Similitud: 82.5391
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 3
+EMPTYs: {2, 5, 12}
+Vertice de inicio de la f2: 7
+Similitud: 74.9688
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 9
+Similitud: 91.4688
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 6
+EMPTYs: {5, 7, 11, 12, 16, 18}
+Vertice de inicio de la f2: 0
+Similitud: 71.7159
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 4
+EMPTYs: {6, 8, 10, 12}
+Vertice de inicio de la f2: 5
+Similitud: 73.1484
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 3
+EMPTYs: {9, 10, 15}
+Vertice de inicio de la f2: 0
+Similitud: 82.5
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 1, 3, 5, 7}
+Vertice de inicio de la f2: 0
+Similitud: 67.2734
+
+**** Comparacion de la imagen ../images/Bone-7.jpg ****
+
+Con la imagen ../images/Bone-7.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 10
+Similitud: 98.5312
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.6938
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.3375
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 82.6812
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 75.7625
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.8062
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 6
+EMPTYs: {3, 5, 6, 16, 17, 19}
+Vertice de inicio de la f2: 0
+Similitud: 68.9312
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 7
+EMPTYs: {0, 3, 5, 7, 12, 15, 16}
+Vertice de inicio de la f2: 1
+Similitud: 63.2313
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 4
+EMPTYs: {7, 16, 17, 19}
+Vertice de inicio de la f2: 0
+Similitud: 78.8312
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 2
+EMPTYs: {7, 17}
+Vertice de inicio de la f2: 0
+Similitud: 88.642
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 8
+EMPTYs: {0, 1, 2, 3, 5, 6, 17, 18}
+Vertice de inicio de la f2: 1
+Similitud: 58.775
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {6}
+Vertice de inicio de la f2: 0
+Similitud: 93.075
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 9
+EMPTYs: {1, 2, 6, 10, 11, 12, 13, 15, 19}
+Vertice de inicio de la f2: 4
+Similitud: 53.6625
+
+**** Comparacion de la imagen ../images/Bone-8.jpg ****
+
+Con la imagen ../images/Bone-8.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 9
+Similitud: 87.65
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 87.4937
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 82.525
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 75.8062
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 2
+EMPTYs: {6, 16}
+Vertice de inicio de la f2: 0
+Similitud: 88.1625
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 6
+EMPTYs: {3, 5, 6, 16, 17, 19}
+Vertice de inicio de la f2: 0
+Similitud: 69.0875
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 7
+EMPTYs: {0, 3, 5, 6, 12, 15, 17}
+Vertice de inicio de la f2: 1
+Similitud: 62.9313
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 4
+EMPTYs: {0, 6, 16, 17}
+Vertice de inicio de la f2: 1
+Similitud: 78.5312
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 2
+EMPTYs: {5, 18}
+Vertice de inicio de la f2: 0
+Similitud: 88.8352
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 8
+EMPTYs: {0, 1, 2, 3, 5, 6, 16, 17}
+Vertice de inicio de la f2: 1
+Similitud: 58.775
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {16}
+Vertice de inicio de la f2: 9
+Similitud: 91.9062
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 9
+EMPTYs: {0, 1, 2, 3, 5, 11, 12, 13, 16}
+Vertice de inicio de la f2: 0
+Similitud: 53.7625
+
+**** Comparacion de la imagen ../images/Bone-9.jpg ****
+
+Con la imagen ../images/Bone-9.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 95.3958
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 90.6944
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 83.7014
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 9
+Similitud: 96.1389
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {6, 9, 11, 14}
+Vertice de inicio de la f2: 7
+Similitud: 75.3403
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 2, 5, 11, 14}
+Vertice de inicio de la f2: 1
+Similitud: 68.9583
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {0, 15}
+Vertice de inicio de la f2: 1
+Similitud: 85.8333
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 17, 18}
+Vertice de inicio de la f2: 9
+Similitud: 79.1761
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 3, 5, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 65.0833
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 90.9737
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {0, 1, 2, 5, 7, 10, 13}
+Vertice de inicio de la f2: 0
+Similitud: 59.6875
+
+**** Comparacion de la imagen ../images/Bone-10.jpg ****
+
+Con la imagen ../images/Bone-10.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 91.2153
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 83.75
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 96.1875
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {4, 5, 15, 16}
+Vertice de inicio de la f2: 0
+Similitud: 76.7014
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {4, 5, 13, 15, 16}
+Vertice de inicio de la f2: 0
+Similitud: 70.2569
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {15, 16}
+Vertice de inicio de la f2: 0
+Similitud: 86.3542
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 16, 18}
+Vertice de inicio de la f2: 0
+Similitud: 79.1364
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 4, 5, 15, 16}
+Vertice de inicio de la f2: 0
+Similitud: 65.3681
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 91.4671
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 4, 5, 10, 11, 12, 16}
+Vertice de inicio de la f2: 10
+Similitud: 59.5625
+
+**** Comparacion de la imagen ../images/Bone-11.jpg ****
+
+Con la imagen ../images/Bone-11.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 92.3125
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 91.0139
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {3, 5, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 74.9792
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {3, 5, 12, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 68.5347
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 82.8819
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 20, 21}
+Vertice de inicio de la f2: 0
+Similitud: 76.7216
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 2, 3, 5, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 65.2431
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 86.1184
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 3, 5, 10, 12, 13, 17}
+Vertice de inicio de la f2: 10
+Similitud: 58.7569
+
+**** Comparacion de la imagen ../images/Bone-12.jpg ****
+
+Con la imagen ../images/Bone-12.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 83.8958
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 12, 14, 15}
+Vertice de inicio de la f2: 13
+Similitud: 67.875
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {3, 8, 12, 14, 17}
+Vertice de inicio de la f2: 0
+Similitud: 64.4792
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 75.4167
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {14, 15, 20, 21}
+Vertice de inicio de la f2: 0
+Similitud: 71.9261
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 3, 5, 12, 14, 15}
+Vertice de inicio de la f2: 11
+Similitud: 59.7639
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 79.375
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 3, 5, 8, 10, 12, 17}
+Vertice de inicio de la f2: 10
+Similitud: 57.0347
+
+**** Comparacion de la imagen ../images/Bone-13.jpg ****
+
+Con la imagen ../images/Bone-13.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 4
+EMPTYs: {3, 5, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 76.0347
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 5
+EMPTYs: {3, 6, 13, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 69.2431
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 86.0208
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 17, 18}
+Vertice de inicio de la f2: 0
+Similitud: 79.7443
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 3, 5, 15, 16, 17}
+Vertice de inicio de la f2: 11
+Similitud: 64.8472
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 92.0526
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 5, 10, 11, 12, 16, 17}
+Vertice de inicio de la f2: 9
+Similitud: 59.8472
+
+**** Comparacion de la imagen ../images/Bone-14.jpg ****
+
+Con la imagen ../images/Bone-14.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 1
+EMPTYs: {9}
+Vertice de inicio de la f2: 0
+Similitud: 90.25
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 2
+EMPTYs: {3, 5}
+Vertice de inicio de la f2: 0
+Similitud: 85.7188
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 8
+EMPTYs: {0, 3, 5, 6, 7, 16, 19, 20}
+Vertice de inicio de la f2: 1
+Similitud: 62.8068
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 2}
+Vertice de inicio de la f2: 0
+Similitud: 84.0893
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 3, 5, 16, 17}
+Vertice de inicio de la f2: 1
+Similitud: 73.25
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 3
+EMPTYs: {1, 8, 11}
+Vertice de inicio de la f2: 10
+Similitud: 71.9464
+
+**** Comparacion de la imagen ../images/Bone-15.jpg ****
+
+Con la imagen ../images/Bone-15.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 3
+EMPTYs: {3, 5, 11}
+Vertice de inicio de la f2: 0
+Similitud: 79.1094
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 9
+EMPTYs: {0, 3, 6, 7, 8, 13, 16, 19, 21}
+Vertice de inicio de la f2: 1
+Similitud: 57.8466
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 11
+Similitud: 80.25
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 3, 6, 11, 16, 18}
+Vertice de inicio de la f2: 1
+Similitud: 66.6513
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 2
+EMPTYs: {1, 8}
+Vertice de inicio de la f2: 10
+Similitud: 77.4808
+
+**** Comparacion de la imagen ../images/Bone-16.jpg ****
+
+Con la imagen ../images/Bone-16.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 5, 7, 16, 19, 20}
+Vertice de inicio de la f2: 1
+Similitud: 71.625
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 2, 3, 5}
+Vertice de inicio de la f2: 0
+Similitud: 72.9688
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 3
+EMPTYs: {0, 16, 17}
+Vertice de inicio de la f2: 1
+Similitud: 82.3947
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 5
+EMPTYs: {1, 7, 8, 10, 15}
+Vertice de inicio de la f2: 3
+Similitud: 65.5078
+
+**** Comparacion de la imagen ../images/Bone-17.jpg ****
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 10
+EMPTYs: {0, 1, 2, 3, 4, 5, 6, 7, 16, 19}
+Vertice de inicio de la f2: 2
+Similitud: 53.4318
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 3
+EMPTYs: {5, 7, 16}
+Vertice de inicio de la f2: 0
+Similitud: 85.108
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 11
+EMPTYs: {1, 3, 5, 6, 7, 12, 14, 15, 17, 18, 21}
+Vertice de inicio de la f2: 10
+Similitud: 48.2784
+
+**** Comparacion de la imagen ../images/Bone-18.jpg ****
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 7
+EMPTYs: {1, 2, 3, 5, 16, 17, 18}
+Vertice de inicio de la f2: 0
+Similitud: 61.8553
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 1
+EMPTYs: {10}
+Vertice de inicio de la f2: 0
+Similitud: 75.3438
+
+**** Comparacion de la imagen ../images/Bone-19.jpg ****
+
+Con la imagen ../images/Bone-19.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 8
+EMPTYs: {1, 3, 5, 10, 12, 13, 15, 18}
+Vertice de inicio de la f2: 10
+Similitud: 56.1579
+
+**** Comparacion de la imagen ../images/Bone-20.jpg ****
+
+Con la imagen ../images/Bone-20.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 100
+

@@ -1,0 +1,4 @@
+ ./RecFormas -fD clip/comp_5/cat.jpg clip/comp_5/cat_2.jpg clip/comp_5/Cheetah.jpg clip/comp_5/chipmunk.jpg clip/comp_5/chlopaya_Bird.jpg clip/comp_5/cow_2.jpg clip/comp_5/deer.jpg clip/comp_5/Elephant.jpg clip/comp_5/horse.jpg clip/comp_5/horse_2.jpg clip/comp_5/seal.jpg clip/comp_5/sheep.jpg clip/comp_5/Wolf_1.jpg clip/comp_5/Wolf_2.jpg >animals_rdos
+
+
+  ./RecFormas -fD clip/comp_5/cat.jpg clip/comp_5/cat_2.jpg clip/comp_5/Cheetah.jpg clip/comp_5/chipmunk.jpg clip/comp_5/chlopaya_Bird.jpg clip/comp_5/horse.jpg clip/comp_5/seal.jpg clip/comp_5/sheep.jpg clip/comp_5/Wolf_1.jpg clip/comp_5/Wolf_2.jpg >animals_rdos

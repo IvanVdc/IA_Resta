@@ -1,0 +1,122 @@
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 1335
+Tamaño del tV restante: 2
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+***** Vecinos *****
+Vecinos de 1: 2 
+Vecinos de 2: 1 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image Bone-17 finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 958
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image Bone-18 finished
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,std]} {(408,1) line-line [right,convex,e]} {(405,502) line-line [right,convex,std]} {(1,502) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (204,251)
+	Area: 205719
+	RGB Color: {0, 0, 0}
+	HSV Color: {619920, 0, 617199056}
+	HSL Color: {0, 0, 0}
+	Color: white
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 22
+	QDescription: {(314,32) line-line [obtuse,convex,e]} {(331,66) line-line [obtuse,concave,e]} {(365,70) line-line [obtuse,convex,lth]} {(380,115) line-line [obtuse,convex,std]} {(357,144) line-line [obtuse,convex,lth]} {(298,133) line-line [NONE,concave,lth]} {(206,164) line-line [obtuse,concave,h]} {(200,337) line-line [obtuse,convex,std]} {(124,397) line-line [obtuse,concave,d]} {(132,446) line-line [obtuse,convex,std]} {(98,468) line-line [obtuse,convex,e]} {(61,452) line-line [obtuse,convex,std]} {(66,425) line-line [right,concave,e]} {(33,419) line-line [obtuse,convex,e]} {(27,390) line-line [obtuse,convex,lth]} {(54,361) line-line [obtuse,convex,e]} {(94,379) line-line [obtuse,concave,h]} {(168,331) line-line [obtuse,concave,h]} {(178,132) line-line [obtuse,convex,ltd]} {(263,109) line-line [acute,concave,d]} {(247,69) line-line [obtuse,convex,e]} {(271,34) line-line [obtuse,convex,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (207,231)
+	Area: 28146.7
+	RGB Color: {0, 0, 0}
+	HSV Color: {619920, 0, 617199056}
+	HSL Color: {0, 0, 0}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,sl,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,qsh,convex],[line-line,obtuse,ql,convex],[line-line,obtuse,qsh,convex],[line-line,very_obtuse,qsh,concave],[line-line,obtuse,hl,concave],[line-line,obtuse,ql,convex],[line-line,obtuse,dl,concave],[line-line,obtuse,ql,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,ql,convex],[line-line,right,sl,concave],[line-line,obtuse,sl,convex],[line-line,obtuse,qsh,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,hl,concave],[line-line,obtuse,hl,concave],[line-line,obtuse,ml,convex],[line-line,acute,dl,concave],[line-line,obtuse,sl,convex],[line-line,obtuse,sl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,std]} {(408,1) line-line [right,convex,lth]} {(408,560) line-line [right,convex,std]} {(1,562) line-line [right,convex,lth]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (204,281)
+	Area: 230259
+	RGB Color: {0, 0, 0}
+	HSV Color: {693720, 0, 0}
+	HSL Color: {0, 0, 0}
+	Color: black
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,ql,convex],[line-line,right,qsh,convex],[line-line,right,ql,convex],[line-line,right,qsh,convex]]]
+
+Figure's id: 1
+	Num vertices: 12
+	QDescription: {(333,78) line-line [acute,convex,e]} {(348,110) line-line [obtuse,convex,sth]} {(153,415) line-line [NONE,concave,ltd]} {(162,460) line-line [obtuse,convex,e]} {(130,484) line-line [obtuse,convex,e]} {(91,470) line-line [obtuse,convex,std]} {(97,442) line-line [right,concave,e]} {(63,437) line-line [obtuse,convex,e]} {(57,403) line-line [obtuse,convex,e]} {(82,378) line-line [obtuse,convex,lth]} {(121,395) line-line [obtuse,concave,sth]} {(303,98) line-line [NONE,convex,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (201,303)
+	Area: 21198.3
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,sl,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,obtuse,sl,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,ql,convex],[line-line,right,sl,concave],[line-line,obtuse,sl,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,qsh,convex],[line-line,obtuse,msh,concave],[line-line,very_obtuse,ml,convex]]]
+**********************************
+**** Comparacion de la imagen ../images/Bone-17.jpg ****
+
+Con la imagen ../images/Bone-17.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 10
+EMPTYs: {0, 1, 2, 3, 5, 6, 7, 16, 19, 20}
+Vertice de inicio de la f2: 1
+Similitud: 0.53
+
+**** Comparacion de la imagen ../images/Bone-18.jpg ****
+
+Con la imagen ../images/Bone-18.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+FE execution time: 0.97
+QD execution time: 0
+SimQSD execution time: 65.75
+Total execution time: 66.72

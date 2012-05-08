@@ -1,0 +1,14 @@
+./RecFormas -fDC Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_CNDs_para_ordenar
+
+./RecFormas -fDC Glas-20 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 > Glas_todos_CNDs_para_ordenar_empieza_Glas-20
+
+./RecFormas -fDC Bone-1.bmp Bone-12 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_CNDs_para_ordenar_con_Bone-1-12
+
+--------------------------------------------------------------
+
+./RecFormas -fDC Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_intervalar_para_ordenar
+
+./RecFormas -fDC Glas-20 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 > Glas_todos_intervalar_para_ordenar_empieza_Glas-20
+
+./RecFormas -fDC Bone-1.bmp Bone-12 Glas-1 Glas-2 Glas-4 Glas-6 Glas-7 Glas-8 Glas-9 Glas-10 Glas-12 Glas-13 Glas-14 Glas-15 Glas-16 Glas-17 Glas-18 Glas-19 Glas-20 > Glas_todos_intervalar_para_ordenar_con_Bone-1-12
+

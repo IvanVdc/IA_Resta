@@ -1,0 +1,2580 @@
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 2
+Tamaño del tV restante: 3
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+***** Vecinos *****
+Vecinos de 1: 2 
+Vecinos de 2: 1 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image Glas-1 finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 1
+Tamaño del tV restante: 6
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image Glas-20 finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 504
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-01.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 556
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-02.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 493
+Tamaño del tV restante: 2
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-04.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 556
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-05.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 561
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-06.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 0
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-07.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 486
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-08.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 597
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-09.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 483
+Tamaño del tV restante: 3
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-10.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 582
+Tamaño del tV restante: 6
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-11.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 582
+Tamaño del tV restante: 6
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-11.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 516
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-12.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 0
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-13.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 492
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-14.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 0
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-15.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 492
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-16.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 573
+Tamaño del tV restante: 1
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-17.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 504
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-18.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 0
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-19.gif finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 517
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image brick/brick-20.gif finished
+
+Figure's id: 0
+	Num vertices: 11
+	QDescription: {(3,4) line-line [right,convex,sth]} {(297,5) line-line [right,convex,ltd]} {(300,65) line-line [NONE,convex,e]} {(262,113) line-line [NONE,convex,e]} {(202,144) line-line [obtuse,concave,h]} {(199,304) line-line [obtuse,concave,std]} {(313,356) line-line [NONE,convex,h]} {(13,355) line-line [NONE,convex,ltd]} {(144,304) line-line [obtuse,concave,e]} {(135,150) line-line [obtuse,concave,e]} {(4,85) line-line [obtuse,convex,std]} 
+	Compound: False
+	Internal: False
+	Without curves
+	Centroid: (157,139)
+	Area: 55377.5
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,msh,convex],[line-line,right,ml,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,convex],[line-line,obtuse,hl,concave],[line-line,obtuse,ql,concave],[line-line,very_acute,hl,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,obtuse,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 11
+	QDescription: {(3,5) line-line [right,convex,sth]} {(297,6) line-line [right,convex,ltd]} {(299,66) line-line [NONE,convex,e]} {(265,110) line-line [NONE,convex,lth]} {(200,144) line-line [obtuse,concave,h]} {(200,307) line-line [obtuse,concave,std]} {(310,355) line-line [NONE,convex,h]} {(17,355) line-line [NONE,convex,ltd]} {(144,307) line-line [obtuse,concave,e]} {(135,148) line-line [obtuse,concave,e]} {(6,87) line-line [obtuse,convex,std]} 
+	Compound: False
+	Internal: False
+	Without curves
+	Centroid: (157,138)
+	Area: 53824.2
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,msh,convex],[line-line,right,ml,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,qsh,convex],[line-line,obtuse,hl,concave],[line-line,obtuse,ql,concave],[line-line,very_acute,hl,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,obtuse,ql,convex]]]
+
+Figure's id: 0
+	Num vertices: 16
+	QDescription: {(9,10) line-line [right,convex,lth]} {(134,11) line-line [NONE,convex,std]} {(204,50) line-line [NONE,concave,ltd]} {(224,47) line-line [NONE,concave,sth]} {(271,11) line-line [NONE,convex,std]} {(303,14) line-line [obtuse,convex,h]} {(304,74) line-line [NONE,convex,e]} {(270,118) line-line [NONE,convex,lth]} {(206,153) line-line [obtuse,concave,h]} {(204,312) line-line [obtuse,concave,std]} {(315,362) line-line [NONE,convex,h]} {(21,360) line-line [NONE,convex,ltd]} {(149,312) line-line [obtuse,concave,e]} {(140,158) line-line [obtuse,concave,std]} {(53,127) line-line [NONE,convex,std]} {(9,93) line-line [obtuse,convex,lth]} 
+	Compound: False
+	Internal: False
+	Without curves
+	Centroid: (159,151)
+	Area: 52088.2
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,qsh,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ql,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,qsh,convex],[line-line,obtuse,hl,concave],[line-line,obtuse,ql,concave],[line-line,very_acute,hl,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,ql,concave],[line-line,very_obtuse,ql,convex],[line-line,obtuse,qsh,convex]]]
+
+Figure's id: 1
+	Num vertices: 15
+	QDescription: {(9,11) line-line [right,convex,lth]} {(134,12) line-line [NONE,convex,std]} {(204,51) line-line [NONE,concave,ltd]} {(224,48) line-line [NONE,concave,sth]} {(272,12) line-line [NONE,convex,d]} {(301,11) line-line [right,convex,h]} {(304,71) line-line [NONE,convex,e]} {(267,119) line-line [NONE,convex,e]} {(207,149) line-line [obtuse,concave,h]} {(204,313) line-line [obtuse,concave,std]} {(312,361) line-line [NONE,convex,h]} {(25,360) line-line [NONE,convex,ltd]} {(148,314) line-line [obtuse,concave,e]} {(141,156) line-line [obtuse,concave,e]} {(12,95) line-line [obtuse,convex,std]} 
+	Compound: False
+	Internal: False
+	Without curves
+	Centroid: (159,150)
+	Area: 50544.8
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,qsh,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,dl,convex],[line-line,right,hl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,convex],[line-line,obtuse,hl,concave],[line-line,obtuse,ql,concave],[line-line,very_acute,hl,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,obtuse,ql,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 24
+	QDescription: {(150,47) line-line [NONE,convex,ltd]} {(155,48) line-line [NONE,convex,sth]} {(165,61) line-line [NONE,concave,ltd]} {(170,61) line-line [NONE,concave,sth]} {(240,53) line-line [NONE,convex,ltd]} {(265,70) line-line [NONE,concave,ltd]} {(270,71) line-line [NONE,concave,sth]} {(300,66) line-line [NONE,convex,ltd]} {(304,69) line-line [NONE,convex,h]} {(308,79) line-line [obtuse,convex,sth]} {(294,103) line-line [obtuse,concave,std]} {(301,123) line-line [NONE,convex,ltd]} {(301,127) line-line [obtuse,convex,h]} {(292,130) line-line [NONE,convex,h]} {(267,131) line-line [NONE,convex,e]} {(242,117) line-line [NONE,concave,h]} {(182,125) line-line [NONE,convex,std]} {(142,107) line-line [NONE,concave,std]} {(117,110) line-line [NONE,convex,ltd]} {(112,107) line-line [NONE,convex,sth]} {(103,88) line-line [obtuse,convex,lth]} {(125,67) line-line [obtuse,concave,d]} {(122,53) line-line [obtuse,convex,ltd]} {(126,50) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (209,90)
+	Area: 11747
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,convex],[line-line,obtuse,msh,convex],[line-line,obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,qsh,convex],[line-line,obtuse,dl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 22
+	QDescription: {(116,179) line-line [NONE,convex,h]} {(136,179) line-line [NONE,convex,e]} {(156,193) line-line [NONE,concave,ltd]} {(161,194) line-line [NONE,concave,sth]} {(236,189) line-line [NONE,convex,ltd]} {(256,198) line-line [NONE,concave,h]} {(295,203) line-line [obtuse,convex,d]} {(302,223) line-line [obtuse,convex,h]} {(283,255) line-line [NONE,concave,ltd]} {(285,269) line-line [obtuse,convex,h]} {(256,279) line-line [NONE,convex,ltd]} {(251,279) line-line [NONE,convex,sth]} {(231,265) line-line [NONE,concave,sth]} {(146,270) line-line [NONE,convex,ltd]} {(121,254) line-line [NONE,concave,lth]} {(82,254) line-line [NONE,convex,ltd]} {(77,252) line-line [obtuse,convex,sth]} {(73,233) line-line [obtuse,convex,h]} {(94,207) line-line [NONE,concave,std]} {(97,187) line-line [NONE,convex,ltd]} {(100,182) line-line [NONE,convex,e]} {(105,180) line-line [NONE,convex,h]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (190,228)
+	Area: 15720
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,concave],[line-line,obtuse,dl,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,ml,concave],[line-line,obtuse,hl,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,qsh,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 25
+	QDescription: {(145,52) line-line [NONE,convex,e]} {(160,52) line-line [NONE,convex,lth]} {(180,65) line-line [NONE,concave,h]} {(220,65) line-line [NONE,concave,std]} {(245,58) line-line [NONE,convex,ltd]} {(250,58) line-line [NONE,convex,sth]} {(265,65) line-line [NONE,concave,h]} {(300,66) line-line [NONE,convex,ltd]} {(305,68) line-line [NONE,convex,sth]} {(312,83) line-line [NONE,convex,ltd]} {(310,87) line-line [NONE,convex,sth]} {(298,101) line-line [NONE,concave,lth]} {(297,125) line-line [obtuse,convex,lth]} {(263,129) line-line [NONE,convex,ltd]} {(253,127) line-line [NONE,convex,h]} {(238,118) line-line [NONE,concave,sth]} {(173,122) line-line [NONE,convex,d]} {(143,108) line-line [NONE,concave,e]} {(113,108) line-line [NONE,convex,ltd]} {(108,106) line-line [obtuse,convex,sth]} {(107,92) line-line [obtuse,convex,lth]} {(125,76) line-line [NONE,concave,ltd]} {(126,71) line-line [NONE,concave,sth]} {(124,56) line-line [obtuse,convex,ltd]} {(128,54) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (213,91)
+	Area: 10941.5
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,concave],[line-line,obtuse,qsh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,obtuse,qsh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 21
+	QDescription: {(121,182) line-line [NONE,convex,std]} {(131,183) line-line [NONE,convex,h]} {(151,197) line-line [NONE,concave,sth]} {(221,187) line-line [NONE,convex,std]} {(266,203) line-line [NONE,concave,d]} {(291,202) line-line [NONE,convex,ltd]} {(294,204) line-line [NONE,convex,sth]} {(301,219) line-line [NONE,convex,ltd]} {(301,224) line-line [NONE,convex,sth]} {(284,243) line-line [NONE,concave,e]} {(286,272) line-line [obtuse,convex,e]} {(257,280) line-line [NONE,convex,e]} {(227,265) line-line [NONE,concave,h]} {(147,277) line-line [NONE,convex,ltd]} {(117,259) line-line [NONE,concave,e]} {(82,260) line-line [NONE,convex,ltd]} {(78,257) line-line [NONE,convex,sth]} {(73,238) line-line [obtuse,convex,h]} {(98,210) line-line [NONE,concave,std]} {(99,186) line-line [obtuse,convex,ltd]} {(104,184) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (189,231)
+	Area: 15781.3
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,dl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,sl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 25
+	QDescription: {(117,180) line-line [NONE,convex,e]} {(127,180) line-line [NONE,convex,sth]} {(152,197) line-line [NONE,concave,sth]} {(232,190) line-line [NONE,convex,ltd]} {(252,201) line-line [NONE,concave,h]} {(296,203) line-line [NONE,convex,ltd]} {(299,207) line-line [NONE,convex,sth]} {(305,227) line-line [NONE,convex,ltd]} {(304,231) line-line [NONE,convex,sth]} {(280,254) line-line [NONE,concave,ltd]} {(279,259) line-line [NONE,concave,sth]} {(284,274) line-line [NONE,convex,ltd]} {(283,278) line-line [obtuse,convex,sth]} {(269,283) line-line [NONE,convex,ltd]} {(264,283) line-line [NONE,convex,sth]} {(235,262) line-line [NONE,concave,sth]} {(140,268) line-line [NONE,convex,ltd]} {(110,249) line-line [NONE,concave,e]} {(80,252) line-line [obtuse,convex,ltd]} {(77,248) line-line [NONE,convex,sth]} {(73,234) line-line [NONE,convex,ltd]} {(75,229) line-line [NONE,convex,sth]} {(99,209) line-line [NONE,concave,std]} {(101,185) line-line [NONE,convex,ltd]} {(106,182) line-line [NONE,convex,h]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (192,230)
+	Area: 14770.7
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,convex]]]
+
+Figure's id: 0
+	Num vertices: 22
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,ltd]} {(260,286) line-line [NONE,convex,ltd]} {(276,278) line-line [obtuse,concave,lth]} {(276,254) line-line [NONE,convex,lth]} {(298,229) line-line [obtuse,concave,e]} {(289,199) line-line [obtuse,concave,e]} {(255,203) line-line [NONE,convex,e]} {(225,186) line-line [NONE,concave,h]} {(155,197) line-line [NONE,convex,ltd]} {(135,180) line-line [obtuse,concave,lth]} {(101,188) line-line [obtuse,concave,std]} {(100,207) line-line [NONE,convex,lth]} {(77,229) line-line [obtuse,concave,e]} {(80,257) line-line [right,concave,e]} {(109,255) line-line [NONE,convex,std]} {(129,269) line-line [NONE,concave,sth]} {(219,267) line-line [NONE,convex,ltd]} {(244,276) line-line [NONE,convex,std]} {(256,286) line-line [NONE,convex,sth]} {(0,284) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (173,127)
+	Area: 84937
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,ml,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,qsh,concave],[line-line,very_obtuse,qsh,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,qsh,concave],[line-line,obtuse,ql,concave],[line-line,very_obtuse,qsh,convex],[line-line,obtuse,sl,concave],[line-line,right,sl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ql,convex],[line-line,very_acute,msh,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(130,181) line-line [NONE,convex,ltd]} {(135,181) line-line [NONE,convex,sth]} {(155,198) line-line [NONE,concave,ltd]} {(160,199) line-line [NONE,concave,sth]} {(225,187) line-line [NONE,convex,ltd]} {(250,203) line-line [NONE,concave,ltd]} {(255,204) line-line [NONE,concave,sth]} {(285,199) line-line [NONE,convex,ltd]} {(289,200) line-line [obtuse,convex,sth]} {(297,225) line-line [NONE,convex,ltd]} {(297,230) line-line [NONE,convex,sth]} {(275,255) line-line [NONE,concave,std]} {(275,279) line-line [obtuse,convex,e]} {(256,284) line-line [NONE,convex,h]} {(221,266) line-line [NONE,concave,h]} {(141,273) line-line [NONE,convex,d]} {(107,254) line-line [NONE,concave,std]} {(82,256) line-line [NONE,convex,ltd]} {(77,254) line-line [obtuse,convex,sth]} {(77,230) line-line [NONE,convex,e]} {(101,208) line-line [NONE,concave,std]} {(102,189) line-line [NONE,convex,ltd]} {(105,185) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (188,231)
+	Area: 15245.1
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ql,concave],[line-line,obtuse,sl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(152,52) line-line [NONE,convex,sth]} {(187,63) line-line [NONE,concave,h]} {(257,60) line-line [NONE,convex,ltd]} {(272,68) line-line [NONE,concave,h]} {(301,67) line-line [NONE,convex,ltd]} {(305,71) line-line [NONE,convex,sth]} {(310,86) line-line [NONE,convex,ltd]} {(309,90) line-line [NONE,convex,sth]} {(294,108) line-line [NONE,concave,e]} {(295,127) line-line [obtuse,convex,ltd]} {(291,130) line-line [NONE,convex,sth]} {(261,131) line-line [NONE,convex,e]} {(237,116) line-line [NONE,concave,sth]} {(162,118) line-line [NONE,convex,ltd]} {(148,106) line-line [NONE,concave,h]} {(113,106) line-line [NONE,convex,ltd]} {(108,104) line-line [obtuse,convex,h]} {(107,95) line-line [NONE,convex,d]} {(108,90) line-line [NONE,convex,sth]} {(122,77) line-line [NONE,concave,e]} {(126,57) line-line [NONE,convex,ltd]} {(130,54) line-line [NONE,convex,sth]} {(145,53) line-line [NONE,concave,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (212,91)
+	Area: 10612.9
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 20
+	QDescription: {(94,169) line-line [acute,convex,e]} {(128,173) line-line [NONE,convex,d]} {(141,186) line-line [NONE,concave,sth]} {(231,183) line-line [NONE,convex,ltd]} {(260,205) line-line [NONE,concave,e]} {(294,199) line-line [obtuse,convex,ltd]} {(297,203) line-line [NONE,convex,sth]} {(300,228) line-line [NONE,convex,e]} {(284,248) line-line [NONE,concave,e]} {(284,273) line-line [NONE,convex,ltd]} {(281,276) line-line [NONE,convex,sth]} {(257,280) line-line [NONE,convex,h]} {(217,263) line-line [NONE,concave,lth]} {(152,275) line-line [NONE,convex,std]} {(112,257) line-line [NONE,concave,std]} {(77,263) line-line [NONE,convex,ltd]} {(72,262) line-line [obtuse,convex,sth]} {(71,233) line-line [NONE,convex,ltd]} {(73,228) line-line [NONE,convex,sth]} {(96,207) line-line [obtuse,concave,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (185,228)
+	Area: 17544
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,sl,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,qsh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,sl,concave]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(124,55) line-line [acute,convex,e]} {(144,55) line-line [NONE,convex,ltd]} {(149,56) line-line [NONE,convex,sth]} {(169,69) line-line [NONE,concave,sth]} {(244,60) line-line [NONE,convex,ltd]} {(269,76) line-line [NONE,concave,e]} {(299,69) line-line [NONE,convex,ltd]} {(303,71) line-line [NONE,convex,sth]} {(307,81) line-line [NONE,convex,d]} {(307,86) line-line [NONE,convex,sth]} {(291,105) line-line [NONE,concave,e]} {(293,124) line-line [obtuse,convex,ltd]} {(289,126) line-line [NONE,convex,sth]} {(269,127) line-line [NONE,convex,lth]} {(239,112) line-line [NONE,concave,h]} {(179,122) line-line [NONE,convex,std]} {(144,110) line-line [NONE,concave,std]} {(119,114) line-line [NONE,convex,ltd]} {(114,112) line-line [NONE,convex,sth]} {(103,98) line-line [obtuse,convex,ltd]} {(106,93) line-line [NONE,convex,sth]} {(126,75) line-line [NONE,concave,ltd]} {(128,71) line-line [NONE,concave,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (207,91)
+	Area: 9897.71
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,sl,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(102,182) line-line [NONE,convex,h]} {(122,182) line-line [NONE,convex,h]} {(152,199) line-line [NONE,concave,h]} {(227,191) line-line [NONE,convex,ltd]} {(232,192) line-line [NONE,convex,sth]} {(249,210) line-line [obtuse,concave,h]} {(294,204) line-line [NONE,convex,ltd]} {(297,207) line-line [NONE,convex,sth]} {(299,227) line-line [NONE,convex,h]} {(281,256) line-line [NONE,concave,std]} {(280,275) line-line [NONE,convex,ltd]} {(277,278) line-line [NONE,convex,sth]} {(247,282) line-line [NONE,convex,lth]} {(212,265) line-line [NONE,concave,h]} {(142,277) line-line [NONE,convex,ltd]} {(137,277) line-line [NONE,convex,sth]} {(107,260) line-line [NONE,concave,e]} {(77,265) line-line [NONE,convex,ltd]} {(72,264) line-line [obtuse,convex,sth]} {(70,240) line-line [NONE,convex,ltd]} {(72,235) line-line [NONE,convex,sth]} {(95,212) line-line [obtuse,concave,std]} {(90,187) line-line [obtuse,convex,d]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (184,234)
+	Area: 15943.3
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ql,concave],[line-line,obtuse,dl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(102,182) line-line [NONE,convex,h]} {(122,182) line-line [NONE,convex,h]} {(152,199) line-line [NONE,concave,h]} {(227,191) line-line [NONE,convex,ltd]} {(232,192) line-line [NONE,convex,sth]} {(249,210) line-line [obtuse,concave,h]} {(294,204) line-line [NONE,convex,ltd]} {(297,207) line-line [NONE,convex,sth]} {(299,227) line-line [NONE,convex,h]} {(281,256) line-line [NONE,concave,std]} {(280,275) line-line [NONE,convex,ltd]} {(277,278) line-line [NONE,convex,sth]} {(247,282) line-line [NONE,convex,lth]} {(212,265) line-line [NONE,concave,h]} {(142,277) line-line [NONE,convex,ltd]} {(137,277) line-line [NONE,convex,sth]} {(107,260) line-line [NONE,concave,e]} {(77,265) line-line [NONE,convex,ltd]} {(72,264) line-line [obtuse,convex,sth]} {(70,240) line-line [NONE,convex,ltd]} {(72,235) line-line [NONE,convex,sth]} {(95,212) line-line [obtuse,concave,std]} {(90,187) line-line [obtuse,convex,d]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (184,234)
+	Area: 15943.3
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ql,concave],[line-line,obtuse,dl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(154,52) line-line [NONE,convex,std]} {(174,64) line-line [NONE,concave,ltd]} {(184,66) line-line [NONE,concave,sth]} {(239,55) line-line [NONE,convex,d]} {(263,73) line-line [NONE,concave,ltd]} {(268,73) line-line [NONE,concave,sth]} {(298,64) line-line [NONE,convex,ltd]} {(302,64) line-line [NONE,convex,sth]} {(316,83) line-line [obtuse,convex,ltd]} {(314,87) line-line [NONE,convex,sth]} {(291,106) line-line [obtuse,concave,std]} {(297,125) line-line [obtuse,convex,ltd]} {(294,128) line-line [NONE,convex,sth]} {(260,132) line-line [NONE,convex,std]} {(236,118) line-line [NONE,concave,sth]} {(161,122) line-line [NONE,convex,ltd]} {(136,109) line-line [NONE,concave,ltd]} {(131,109) line-line [NONE,concave,sth]} {(106,114) line-line [NONE,convex,ltd]} {(102,111) line-line [NONE,convex,sth]} {(99,102) line-line [obtuse,convex,sth]} {(119,81) line-line [NONE,concave,e]} {(122,56) line-line [obtuse,convex,lth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (209,92)
+	Area: 11350
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ql,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,qsh,convex]]]
+
+Figure's id: 0
+	Num vertices: 21
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,ltd]} {(265,286) line-line [NONE,convex,ltd]} {(285,277) line-line [obtuse,concave,e]} {(281,252) line-line [NONE,convex,e]} {(294,232) line-line [obtuse,concave,e]} {(286,205) line-line [obtuse,concave,e]} {(251,208) line-line [NONE,convex,e]} {(222,192) line-line [NONE,concave,sth]} {(137,195) line-line [NONE,convex,ltd]} {(117,184) line-line [NONE,concave,e]} {(92,189) line-line [obtuse,concave,e]} {(87,218) line-line [NONE,convex,e]} {(70,241) line-line [obtuse,concave,e]} {(76,264) line-line [right,concave,e]} {(101,259) line-line [NONE,convex,h]} {(141,282) line-line [NONE,concave,h]} {(226,275) line-line [NONE,convex,ltd]} {(260,286) line-line [NONE,convex,sth]} {(1,286) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (174,125)
+	Area: 83923.3
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,ml,convex],[line-line,very_acute,ml,convex],[line-line,obtuse,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,obtuse,sl,concave],[line-line,right,sl,concave],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_acute,msh,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 21
+	QDescription: {(105,184) line-line [NONE,convex,e]} {(115,184) line-line [NONE,convex,h]} {(135,196) line-line [NONE,concave,sth]} {(220,192) line-line [NONE,convex,ltd]} {(254,209) line-line [NONE,concave,e]} {(288,206) line-line [obtuse,convex,std]} {(295,226) line-line [NONE,convex,lth]} {(280,251) line-line [NONE,concave,e]} {(284,276) line-line [NONE,convex,ltd]} {(282,279) line-line [obtuse,convex,sth]} {(258,285) line-line [NONE,convex,lth]} {(223,274) line-line [NONE,concave,h]} {(158,277) line-line [NONE,concave,ltd]} {(143,282) line-line [NONE,convex,sth]} {(103,258) line-line [NONE,concave,std]} {(78,264) line-line [NONE,convex,ltd]} {(74,261) line-line [NONE,convex,sth]} {(71,242) line-line [NONE,convex,lth]} {(88,219) line-line [NONE,concave,e]} {(93,190) line-line [NONE,convex,ltd]} {(97,186) line-line [NONE,convex,h]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (184,236)
+	Area: 16242.6
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ql,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 25
+	QDescription: {(121,53) line-line [obtuse,convex,sth]} {(151,53) line-line [NONE,convex,ltd]} {(156,55) line-line [NONE,convex,h]} {(163,63) line-line [NONE,concave,ltd]} {(168,65) line-line [NONE,concave,sth]} {(238,61) line-line [NONE,convex,ltd]} {(243,62) line-line [NONE,convex,sth]} {(268,75) line-line [NONE,concave,e]} {(293,68) line-line [NONE,convex,ltd]} {(297,70) line-line [NONE,convex,sth]} {(300,80) line-line [NONE,convex,sth]} {(284,110) line-line [NONE,concave,ltd]} {(286,120) line-line [NONE,concave,d]} {(289,124) line-line [NONE,convex,d]} {(289,127) line-line [obtuse,convex,sth]} {(260,132) line-line [NONE,convex,ltd]} {(255,131) line-line [NONE,convex,sth]} {(230,115) line-line [NONE,concave,h]} {(170,123) line-line [NONE,convex,std]} {(135,109) line-line [NONE,concave,std]} {(110,115) line-line [obtuse,convex,ltd]} {(107,111) line-line [NONE,convex,sth]} {(100,97) line-line [obtuse,convex,h]} {(121,74) line-line [obtuse,concave,d]} {(118,59) line-line [NONE,convex,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (202,92)
+	Area: 10349.1
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,dl,concave],[line-line,very_obtuse,dl,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,hl,convex],[line-line,obtuse,dl,concave],[line-line,very_obtuse,ml,convex]]]
+
+Figure's id: 0
+	Num vertices: 22
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [acute,convex,ltd]} {(282,278) line-line [obtuse,convex,ltd]} {(277,253) line-line [NONE,convex,e]} {(288,234) line-line [NONE,concave,e]} {(285,209) line-line [obtuse,concave,lth]} {(251,206) line-line [NONE,convex,std]} {(226,193) line-line [NONE,concave,sth]} {(146,199) line-line [NONE,convex,ltd]} {(127,184) line-line [NONE,concave,lth]} {(92,185) line-line [obtuse,concave,e]} {(86,215) line-line [NONE,convex,e]} {(66,238) line-line [obtuse,concave,e]} {(72,265) line-line [right,concave,e]} {(107,260) line-line [NONE,convex,e]} {(141,279) line-line [NONE,concave,d]} {(161,280) line-line [NONE,concave,sth]} {(216,269) line-line [NONE,convex,std]} {(251,285) line-line [NONE,concave,std]} {(272,286) line-line [NONE,convex,sth]} {(0,284) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,125)
+	Area: 84057.9
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,acute,ml,convex],[line-line,obtuse,ml,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,qsh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,qsh,concave],[line-line,obtuse,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,obtuse,sl,concave],[line-line,right,sl,concave],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,dl,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_acute,msh,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 24
+	QDescription: {(94,184) line-line [obtuse,convex,sth]} {(124,185) line-line [NONE,convex,ltd]} {(129,186) line-line [NONE,convex,sth]} {(143,199) line-line [NONE,concave,sth]} {(223,193) line-line [NONE,convex,ltd]} {(253,208) line-line [NONE,concave,e]} {(283,209) line-line [NONE,convex,ltd]} {(287,212) line-line [NONE,convex,sth]} {(288,232) line-line [NONE,convex,e]} {(278,246) line-line [NONE,concave,lth]} {(279,271) line-line [NONE,concave,ltd]} {(281,276) line-line [NONE,convex,e]} {(280,280) line-line [NONE,convex,e]} {(276,284) line-line [NONE,convex,sth]} {(246,283) line-line [NONE,convex,e]} {(216,268) line-line [NONE,concave,h]} {(151,279) line-line [NONE,convex,std]} {(107,259) line-line [NONE,concave,std]} {(72,264) line-line [NONE,convex,ltd]} {(68,261) line-line [NONE,convex,sth]} {(66,242) line-line [NONE,convex,ltd]} {(68,237) line-line [NONE,convex,sth]} {(86,218) line-line [NONE,concave,e]} {(90,189) line-line [NONE,convex,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (180,235)
+	Area: 16106.7
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,qsh,concave],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 24
+	QDescription: {(138,52) line-line [NONE,convex,ltd]} {(143,52) line-line [NONE,convex,sth]} {(161,67) line-line [NONE,concave,sth]} {(231,61) line-line [NONE,convex,ltd]} {(261,74) line-line [NONE,concave,ltd]} {(276,71) line-line [NONE,convex,std]} {(286,72) line-line [NONE,convex,d]} {(290,75) line-line [NONE,convex,h]} {(295,85) line-line [obtuse,convex,sth]} {(280,109) line-line [NONE,concave,ltd]} {(280,114) line-line [NONE,concave,sth]} {(287,128) line-line [obtuse,convex,ltd]} {(284,131) line-line [NONE,convex,sth]} {(254,130) line-line [NONE,convex,e]} {(229,117) line-line [NONE,concave,h]} {(159,123) line-line [NONE,convex,ltd]} {(139,118) line-line [NONE,convex,d]} {(129,111) line-line [NONE,concave,sth]} {(100,115) line-line [NONE,convex,ltd]} {(95,113) line-line [obtuse,convex,sth]} {(95,99) line-line [NONE,convex,h]} {(113,75) line-line [NONE,concave,d]} {(112,60) line-line [obtuse,convex,ltd]} {(116,57) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (196,93)
+	Area: 10654.9
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,hl,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,dl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(80,186) line-line [obtuse,convex,sth]} {(110,186) line-line [NONE,convex,e]} {(140,201) line-line [NONE,concave,h]} {(215,190) line-line [NONE,convex,d]} {(249,209) line-line [NONE,concave,std]} {(274,205) line-line [NONE,convex,ltd]} {(278,205) line-line [NONE,convex,e]} {(281,210) line-line [NONE,convex,sth]} {(284,235) line-line [NONE,convex,e]} {(269,255) line-line [NONE,concave,e]} {(271,280) line-line [NONE,convex,ltd]} {(268,283) line-line [obtuse,convex,sth]} {(239,283) line-line [NONE,convex,lth]} {(204,270) line-line [NONE,concave,h]} {(139,283) line-line [NONE,convex,d]} {(109,267) line-line [NONE,convex,ltd]} {(104,263) line-line [NONE,concave,e]} {(100,262) line-line [NONE,concave,sth]} {(65,265) line-line [NONE,convex,ltd]} {(61,262) line-line [NONE,convex,sth]} {(59,242) line-line [NONE,convex,h]} {(79,213) line-line [NONE,concave,std]} {(78,189) line-line [NONE,convex,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (173,236)
+	Area: 16422.8
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,msh,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 24
+	QDescription: {(108,56) line-line [obtuse,convex,sth]} {(138,56) line-line [NONE,convex,std]} {(158,64) line-line [NONE,concave,sth]} {(228,59) line-line [NONE,convex,ltd]} {(233,60) line-line [NONE,convex,sth]} {(253,74) line-line [NONE,concave,lth]} {(288,69) line-line [NONE,convex,ltd]} {(292,71) line-line [NONE,convex,sth]} {(297,86) line-line [obtuse,convex,e]} {(287,100) line-line [NONE,convex,ltd]} {(283,103) line-line [NONE,concave,e]} {(280,108) line-line [NONE,concave,sth]} {(284,123) line-line [NONE,convex,ltd]} {(282,127) line-line [NONE,convex,sth]} {(253,136) line-line [NONE,convex,e]} {(223,117) line-line [NONE,concave,h]} {(158,123) line-line [NONE,convex,std]} {(123,111) line-line [NONE,concave,std]} {(98,115) line-line [NONE,convex,ltd]} {(94,113) line-line [NONE,convex,sth]} {(88,94) line-line [obtuse,convex,e]} {(106,80) line-line [NONE,concave,ltd]} {(108,76) line-line [NONE,concave,sth]} {(106,61) line-line [NONE,convex,ltd]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (195,93)
+	Area: 11168.1
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,msh,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,qsh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,sl,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,ql,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,sl,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex]]]
+
+Figure's id: 0
+	Num vertices: 21
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,ltd]} {(241,284) line-line [NONE,convex,ltd]} {(268,274) line-line [right,concave,std]} {(263,260) line-line [obtuse,convex,h]} {(281,230) line-line [NONE,concave,std]} {(274,201) line-line [obtuse,concave,lth]} {(235,206) line-line [NONE,convex,std]} {(211,187) line-line [NONE,concave,h]} {(141,200) line-line [NONE,convex,std]} {(107,182) line-line [NONE,concave,e]} {(72,184) line-line [acute,concave,e]} {(77,213) line-line [NONE,convex,lth]} {(53,247) line-line [obtuse,concave,std]} {(61,269) line-line [obtuse,concave,h]} {(106,265) line-line [NONE,convex,e]} {(141,281) line-line [NONE,concave,h]} {(206,274) line-line [NONE,convex,d]} {(235,286) line-line [NONE,convex,sth]} {(0,285) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (177,125)
+	Area: 83636.3
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,ml,convex],[line-line,very_acute,ml,convex],[line-line,right,ql,concave],[line-line,obtuse,hl,convex],[line-line,very_obtuse,ql,concave],[line-line,obtuse,qsh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,sl,concave],[line-line,acute,sl,concave],[line-line,very_obtuse,qsh,convex],[line-line,obtuse,ql,concave],[line-line,obtuse,hl,concave],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,dl,convex],[line-line,very_acute,msh,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 23
+	QDescription: {(86,182) line-line [NONE,convex,h]} {(106,182) line-line [NONE,convex,h]} {(135,200) line-line [NONE,concave,ltd]} {(140,201) line-line [NONE,concave,sth]} {(210,187) line-line [NONE,convex,ltd]} {(234,206) line-line [NONE,concave,ltd]} {(239,207) line-line [NONE,concave,sth]} {(273,202) line-line [NONE,convex,ltd]} {(276,205) line-line [NONE,convex,sth]} {(281,225) line-line [NONE,convex,h]} {(262,260) line-line [NONE,concave,ltd]} {(267,274) line-line [obtuse,convex,ltd]} {(264,277) line-line [NONE,convex,sth]} {(235,284) line-line [NONE,convex,e]} {(210,273) line-line [NONE,concave,sth]} {(140,280) line-line [NONE,convex,std]} {(105,264) line-line [NONE,concave,e]} {(60,268) line-line [obtuse,convex,ltd]} {(57,265) line-line [NONE,convex,sth]} {(55,245) line-line [NONE,convex,h]} {(77,216) line-line [NONE,concave,e]} {(72,187) line-line [obtuse,convex,ltd]} {(75,184) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (169,235)
+	Area: 16511.8
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,ml,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,sl,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,sl,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(349,0) line-line [right,convex,std]} {(348,286) line-line [right,convex,e]} {(0,285) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (175,143)
+	Area: 100729
+	RGB Color: {0, 0, 0}
+	HSV Color: {578824128, 32767, 578824131}
+	HSL Color: {0, 0, 0}
+	Color: red
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 24
+	QDescription: {(142,58) line-line [NONE,convex,h]} {(167,68) line-line [NONE,concave,h]} {(227,62) line-line [NONE,convex,ltd]} {(252,74) line-line [NONE,concave,ltd]} {(257,75) line-line [NONE,concave,sth]} {(286,67) line-line [obtuse,convex,d]} {(295,81) line-line [NONE,convex,ltd]} {(294,86) line-line [NONE,convex,sth]} {(273,111) line-line [obtuse,concave,std]} {(281,130) line-line [obtuse,convex,ltd]} {(277,133) line-line [NONE,convex,sth]} {(243,135) line-line [NONE,convex,std]} {(223,124) line-line [NONE,concave,sth]} {(148,125) line-line [NONE,convex,ltd]} {(118,114) line-line [NONE,concave,e]} {(88,115) line-line [NONE,convex,ltd]} {(83,113) line-line [obtuse,convex,h]} {(82,104) line-line [NONE,convex,d]} {(85,100) line-line [NONE,convex,sth]} {(104,86) line-line [NONE,concave,ltd]} {(107,82) line-line [NONE,concave,sth]} {(100,62) line-line [obtuse,convex,ltd]} {(104,59) line-line [NONE,convex,sth]} {(129,59) line-line [NONE,concave,d]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (192,95)
+	Area: 11286.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,very_obtuse,hl,convex],[line-line,very_obtuse,hl,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,obtuse,dl,convex],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,obtuse,ql,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,ml,convex],[line-line,very_obtuse,sl,concave],[line-line,very_obtuse,ml,convex],[line-line,obtuse,hl,convex],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,ml,concave],[line-line,very_obtuse,msh,concave],[line-line,obtuse,ml,convex],[line-line,very_obtuse,msh,convex],[line-line,very_obtuse,dl,concave]]]
+**********************************
+**** Comparacion de la imagen ../images/Glas-1.jpg ****
+
+Con la imagen ../images/Glas-1.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/Glas-20.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 2, 3, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.72
+
+Con la imagen ../images/brick/brick-01.gif
+Diferencia de vertices: 13
+EMPTYs: {0, 1, 2, 4, 5, 7, 10, 12, 16, 18, 19, 21, 23}
+Vertice de inicio de la f2: 8
+Similitud: 0.45
+
+Con la imagen ../images/brick/brick-02.gif
+Diferencia de vertices: 11
+EMPTYs: {0, 1, 2, 4, 6, 7, 8, 11, 13, 15, 18}
+Vertice de inicio de la f2: 4
+Similitud: 0.49
+
+Con la imagen ../images/brick/brick-04.gif
+Diferencia de vertices: 14
+EMPTYs: {4, 6, 7, 8, 10, 12, 13, 14, 17, 18, 20, 21, 22, 24}
+Vertice de inicio de la f2: 2
+Similitud: 0.44
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 10
+EMPTYs: {3, 5, 8, 10, 11, 12, 13, 15, 18, 20}
+Vertice de inicio de la f2: 2
+Similitud: 0.52
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 14
+EMPTYs: {2, 3, 5, 6, 7, 8, 9, 11, 14, 16, 18, 20, 22, 24}
+Vertice de inicio de la f2: 2
+Similitud: 0.43
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 12
+EMPTYs: {0, 2, 4, 5, 7, 10, 12, 13, 16, 17, 19, 20}
+Vertice de inicio de la f2: 3
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 12
+EMPTYs: {2, 4, 7, 9, 10, 11, 12, 13, 15, 16, 19, 22}
+Vertice de inicio de la f2: 3
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 9
+EMPTYs: {0, 1, 2, 3, 5, 8, 13, 15, 18}
+Vertice de inicio de la f2: 9
+Similitud: 0.54
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 12
+EMPTYs: {0, 1, 2, 4, 6, 7, 10, 15, 17, 20, 21, 22}
+Vertice de inicio de la f2: 8
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 12
+EMPTYs: {0, 1, 3, 5, 6, 8, 9, 14, 15, 17, 20, 22}
+Vertice de inicio de la f2: 9
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 12
+EMPTYs: {0, 1, 3, 5, 6, 8, 9, 14, 15, 17, 20, 22}
+Vertice de inicio de la f2: 9
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 12
+EMPTYs: {1, 3, 4, 6, 8, 10, 14, 15, 16, 18, 19, 20}
+Vertice de inicio de la f2: 7
+Similitud: 0.46
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 10
+EMPTYs: {0, 1, 3, 7, 12, 13, 15, 16, 18, 20}
+Vertice de inicio de la f2: 8
+Similitud: 0.52
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 14
+EMPTYs: {3, 4, 5, 8, 9, 10, 11, 13, 16, 18, 20, 21, 23, 24}
+Vertice de inicio de la f2: 0
+Similitud: 0.43
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 13
+EMPTYs: {0, 1, 2, 3, 4, 6, 9, 10, 13, 16, 18, 21, 23}
+Vertice de inicio de la f2: 9
+Similitud: 0.44
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 13
+EMPTYs: {1, 3, 6, 7, 9, 10, 15, 16, 17, 18, 19, 20, 22}
+Vertice de inicio de la f2: 7
+Similitud: 0.44
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 12
+EMPTYs: {0, 1, 3, 5, 8, 9, 14, 15, 17, 18, 19, 21}
+Vertice de inicio de la f2: 8
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 13
+EMPTYs: {3, 4, 6, 8, 11, 12, 13, 14, 17, 18, 20, 21, 22}
+Vertice de inicio de la f2: 2
+Similitud: 0.45
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 12
+EMPTYs: {2, 4, 5, 7, 8, 10, 12, 13, 15, 17, 20, 22}
+Vertice de inicio de la f2: 2
+Similitud: 0.47
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 13
+EMPTYs: {2, 3, 5, 6, 8, 10, 11, 13, 15, 16, 19, 20, 23}
+Vertice de inicio de la f2: 3
+Similitud: 0.45
+
+**** Comparacion de la imagen ../images/Glas-20.jpg ****
+
+Con la imagen ../images/Glas-20.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-01.gif
+Diferencia de vertices: 9
+EMPTYs: {0, 2, 3, 4, 7, 10, 11, 17, 19}
+Vertice de inicio de la f2: 1
+Similitud: 0.58
+
+Con la imagen ../images/brick/brick-02.gif
+Diferencia de vertices: 7
+EMPTYs: {4, 5, 8, 10, 13, 15, 19}
+Vertice de inicio de la f2: 0
+Similitud: 0.65
+
+Con la imagen ../images/brick/brick-04.gif
+Diferencia de vertices: 10
+EMPTYs: {4, 6, 7, 8, 10, 12, 13, 14, 17, 18}
+Vertice de inicio de la f2: 6
+Similitud: 0.59
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 6
+EMPTYs: {3, 5, 15, 18, 19, 20}
+Vertice de inicio de la f2: 6
+Similitud: 0.67
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 10
+EMPTYs: {0, 1, 2, 3, 7, 16, 18, 21, 23, 24}
+Vertice de inicio de la f2: 13
+Similitud: 0.57
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 8
+EMPTYs: {2, 3, 7, 9, 11, 15, 17, 21}
+Vertice de inicio de la f2: 14
+Similitud: 0.61
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 8
+EMPTYs: {2, 4, 12, 15, 16, 19, 20, 22}
+Vertice de inicio de la f2: 7
+Similitud: 0.61
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 5
+EMPTYs: {5, 8, 9, 13, 15}
+Vertice de inicio de la f2: 14
+Similitud: 0.7
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 8
+EMPTYs: {3, 6, 7, 10, 11, 15, 17, 20}
+Vertice de inicio de la f2: 14
+Similitud: 0.61
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 8
+EMPTYs: {3, 4, 6, 9, 10, 14, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 0.62
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 8
+EMPTYs: {3, 4, 6, 9, 10, 14, 15, 17}
+Vertice de inicio de la f2: 0
+Similitud: 0.62
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 8
+EMPTYs: {1, 3, 4, 6, 14, 15, 18, 21}
+Vertice de inicio de la f2: 7
+Similitud: 0.62
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 6
+EMPTYs: {2, 7, 8, 14, 16, 19}
+Vertice de inicio de la f2: 0
+Similitud: 0.67
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 10
+EMPTYs: {2, 3, 5, 6, 15, 17, 20, 21, 22, 24}
+Vertice de inicio de la f2: 10
+Similitud: 0.58
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 9
+EMPTYs: {2, 4, 9, 15, 18, 19, 20, 21, 23}
+Vertice de inicio de la f2: 10
+Similitud: 0.6
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 9
+EMPTYs: {1, 3, 6, 14, 15, 18, 19, 20, 22}
+Vertice de inicio de la f2: 11
+Similitud: 0.6
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 8
+EMPTYs: {0, 1, 4, 5, 10, 11, 12, 22}
+Vertice de inicio de la f2: 3
+Similitud: 0.62
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 9
+EMPTYs: {2, 3, 6, 11, 12, 13, 14, 17, 18}
+Vertice de inicio de la f2: 5
+Similitud: 0.6
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 8
+EMPTYs: {2, 3, 7, 10, 11, 15, 17, 21}
+Vertice de inicio de la f2: 14
+Similitud: 0.61
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 9
+EMPTYs: {2, 3, 5, 6, 8, 10, 11, 13, 15}
+Vertice de inicio de la f2: 7
+Similitud: 0.59
+
+**** Comparacion de la imagen ../images/brick/brick-01.gif ****
+
+Con la imagen ../images/brick/brick-01.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-02.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 5}
+Vertice de inicio de la f2: 10
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-04.gif
+Diferencia de vertices: 1
+EMPTYs: {21}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 3
+EMPTYs: {5, 20, 21}
+Vertice de inicio de la f2: 9
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 1
+EMPTYs: {20}
+Vertice de inicio de la f2: 13
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 1
+EMPTYs: {10}
+Vertice de inicio de la f2: 0
+Similitud: 0.92
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 1
+EMPTYs: {20}
+Vertice de inicio de la f2: 2
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 4
+EMPTYs: {5, 14, 20, 21}
+Vertice de inicio de la f2: 19
+Similitud: 0.79
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 1
+EMPTYs: {6}
+Vertice de inicio de la f2: 19
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 16
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 16
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 11
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 3
+EMPTYs: {2, 5, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 23
+Similitud: 0.92
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 11
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 1
+EMPTYs: {12}
+Vertice de inicio de la f2: 11
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 5
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 1
+EMPTYs: {12}
+Vertice de inicio de la f2: 0
+Similitud: 0.93
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-02.gif ****
+
+Con la imagen ../images/brick/brick-02.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-04.gif
+Diferencia de vertices: 3
+EMPTYs: {4, 5, 21}
+Vertice de inicio de la f2: 21
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 1
+EMPTYs: {10}
+Vertice de inicio de la f2: 1
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 3
+EMPTYs: {10, 11, 20}
+Vertice de inicio de la f2: 21
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 21
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 0
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 10}
+Vertice de inicio de la f2: 12
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 1
+EMPTYs: {22}
+Vertice de inicio de la f2: 9
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 10
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 10
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 1
+EMPTYs: {16}
+Vertice de inicio de la f2: 20
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 1
+EMPTYs: {5}
+Vertice de inicio de la f2: 1
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 3
+EMPTYs: {8, 12, 13}
+Vertice de inicio de la f2: 20
+Similitud: 0.8
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 2
+EMPTYs: {16, 23}
+Vertice de inicio de la f2: 9
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 16}
+Vertice de inicio de la f2: 21
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 1
+EMPTYs: {20}
+Vertice de inicio de la f2: 14
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 2
+EMPTYs: {5, 11}
+Vertice de inicio de la f2: 5
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 1
+EMPTYs: {7}
+Vertice de inicio de la f2: 21
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 2
+EMPTYs: {7, 14}
+Vertice de inicio de la f2: 7
+Similitud: 0.82
+
+**** Comparacion de la imagen ../images/brick/brick-04.gif ****
+
+Con la imagen ../images/brick/brick-04.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 4
+EMPTYs: {3, 4, 13, 21}
+Vertice de inicio de la f2: 0
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 21}
+Vertice de inicio de la f2: 0
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 2
+EMPTYs: {3, 5}
+Vertice de inicio de la f2: 22
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 5
+EMPTYs: {0, 3, 4, 13, 21}
+Vertice de inicio de la f2: 11
+Similitud: 0.78
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 2
+EMPTYs: {6, 10}
+Vertice de inicio de la f2: 13
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 15}
+Vertice de inicio de la f2: 10
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 15}
+Vertice de inicio de la f2: 10
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 6}
+Vertice de inicio de la f2: 8
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 4
+EMPTYs: {0, 4, 9, 12}
+Vertice de inicio de la f2: 10
+Similitud: 0.78
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 15
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 13
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {6}
+Vertice de inicio de la f2: 7
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 2
+EMPTYs: {0, 9}
+Vertice de inicio de la f2: 12
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 1
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 2
+EMPTYs: {9, 21}
+Vertice de inicio de la f2: 0
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 17
+Similitud: 0.86
+
+**** Comparacion de la imagen ../images/brick/brick-05.gif ****
+
+Con la imagen ../images/brick/brick-05.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 4
+EMPTYs: {9, 11, 13, 20}
+Vertice de inicio de la f2: 0
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 2
+EMPTYs: {9, 17}
+Vertice de inicio de la f2: 1
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 11
+Similitud: 0.95
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 21}
+Vertice de inicio de la f2: 10
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {4, 22}
+Vertice de inicio de la f2: 10
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {4, 22}
+Vertice de inicio de la f2: 10
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 2
+EMPTYs: {11, 16}
+Vertice de inicio de la f2: 20
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.89
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 4
+EMPTYs: {3, 5, 13, 15}
+Vertice de inicio de la f2: 20
+Similitud: 0.78
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 3
+EMPTYs: {1, 14, 23}
+Vertice de inicio de la f2: 10
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 3
+EMPTYs: {9, 11, 16}
+Vertice de inicio de la f2: 0
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 2
+EMPTYs: {6, 17}
+Vertice de inicio de la f2: 10
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 3
+EMPTYs: {8, 12, 21}
+Vertice de inicio de la f2: 20
+Similitud: 0.81
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 3
+EMPTYs: {3, 4, 9}
+Vertice de inicio de la f2: 3
+Similitud: 0.82
+
+**** Comparacion de la imagen ../images/brick/brick-06.gif ****
+
+Con la imagen ../images/brick/brick-06.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 2
+EMPTYs: {23, 24}
+Vertice de inicio de la f2: 12
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 9}
+Vertice de inicio de la f2: 11
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 5
+EMPTYs: {1, 7, 9, 13, 23}
+Vertice de inicio de la f2: 1
+Similitud: 0.78
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 11}
+Vertice de inicio de la f2: 13
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {0, 9}
+Vertice de inicio de la f2: 8
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 2
+EMPTYs: {0, 9}
+Vertice de inicio de la f2: 8
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 5}
+Vertice de inicio de la f2: 13
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 4
+EMPTYs: {5, 7, 9, 20}
+Vertice de inicio de la f2: 0
+Similitud: 0.79
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 2
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {9}
+Vertice de inicio de la f2: 13
+Similitud: 0.91
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {20}
+Vertice de inicio de la f2: 0
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 2
+EMPTYs: {5, 13}
+Vertice de inicio de la f2: 12
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 8
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 20}
+Vertice de inicio de la f2: 0
+Similitud: 0.81
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 11
+Similitud: 0.9
+
+**** Comparacion de la imagen ../images/brick/brick-07.gif ****
+
+Con la imagen ../images/brick/brick-07.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 6
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 3
+EMPTYs: {0, 2, 5}
+Vertice de inicio de la f2: 11
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 17
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 10
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 10
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 22
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 11}
+Vertice de inicio de la f2: 0
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 15}
+Vertice de inicio de la f2: 22
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {20}
+Vertice de inicio de la f2: 22
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 11
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 18
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.93
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 3
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-08.gif ****
+
+Con la imagen ../images/brick/brick-08.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 3
+EMPTYs: {9, 17, 22}
+Vertice de inicio de la f2: 11
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 2
+Similitud: 0.93
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 20
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 20
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 2
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {6, 12}
+Vertice de inicio de la f2: 11
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {11, 22}
+Vertice de inicio de la f2: 1
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 10
+Similitud: 0.89
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {9}
+Vertice de inicio de la f2: 22
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 13
+Similitud: 0.89
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {8}
+Vertice de inicio de la f2: 21
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 2
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {19}
+Vertice de inicio de la f2: 0
+Similitud: 0.91
+
+**** Comparacion de la imagen ../images/brick/brick-09.gif ****
+
+Con la imagen ../images/brick/brick-09.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 3
+EMPTYs: {1, 8, 21}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 3
+EMPTYs: {4, 14, 22}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 3
+EMPTYs: {4, 14, 22}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 3
+EMPTYs: {4, 11, 16}
+Vertice de inicio de la f2: 10
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 1
+EMPTYs: {14}
+Vertice de inicio de la f2: 17
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 5
+EMPTYs: {6, 11, 15, 22, 23}
+Vertice de inicio de la f2: 18
+Similitud: 0.75
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 4
+EMPTYs: {1, 10, 12, 23}
+Vertice de inicio de la f2: 0
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 4
+EMPTYs: {0, 9, 11, 16}
+Vertice de inicio de la f2: 11
+Similitud: 0.79
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 3
+EMPTYs: {10, 14, 17}
+Vertice de inicio de la f2: 10
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 4
+EMPTYs: {3, 8, 12, 21}
+Vertice de inicio de la f2: 10
+Similitud: 0.8
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 3
+EMPTYs: {5, 19, 20}
+Vertice de inicio de la f2: 19
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 4
+EMPTYs: {3, 4, 9, 20}
+Vertice de inicio de la f2: 13
+Similitud: 0.79
+
+**** Comparacion de la imagen ../images/brick/brick-10.gif ****
+
+Con la imagen ../images/brick/brick-10.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 18
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 18
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {3, 14}
+Vertice de inicio de la f2: 14
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {5, 7}
+Vertice de inicio de la f2: 18
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 0
+Similitud: 0.89
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 13
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 22
+Similitud: 0.89
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 12
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {23}
+Vertice de inicio de la f2: 2
+Similitud: 0.88
+
+**** Comparacion de la imagen ../images/brick/brick-11.gif ****
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 14}
+Vertice de inicio de la f2: 9
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 3}
+Vertice de inicio de la f2: 11
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 12
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {21}
+Vertice de inicio de la f2: 11
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 1
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {19}
+Vertice de inicio de la f2: 20
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-11.gif ****
+
+Con la imagen ../images/brick/brick-11.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.9
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {13, 14}
+Vertice de inicio de la f2: 9
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 3}
+Vertice de inicio de la f2: 11
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {15}
+Vertice de inicio de la f2: 0
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 12
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {21}
+Vertice de inicio de la f2: 11
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 1
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {19}
+Vertice de inicio de la f2: 20
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-12.gif ****
+
+Con la imagen ../images/brick/brick-12.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 2
+EMPTYs: {1, 4}
+Vertice de inicio de la f2: 20
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 2
+EMPTYs: {3, 7}
+Vertice de inicio de la f2: 7
+Similitud: 0.79
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {16}
+Vertice de inicio de la f2: 12
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {4}
+Vertice de inicio de la f2: 8
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 11
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {5}
+Vertice de inicio de la f2: 7
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {19}
+Vertice de inicio de la f2: 2
+Similitud: 0.83
+
+**** Comparacion de la imagen ../images/brick/brick-13.gif ****
+
+Con la imagen ../images/brick/brick-13.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 4
+EMPTYs: {1, 3, 11, 20}
+Vertice de inicio de la f2: 9
+Similitud: 0.79
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 3
+EMPTYs: {6, 10, 20}
+Vertice de inicio de la f2: 20
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 3
+EMPTYs: {6, 8, 9}
+Vertice de inicio de la f2: 0
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 14}
+Vertice de inicio de la f2: 20
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 3
+EMPTYs: {9, 11, 15}
+Vertice de inicio de la f2: 9
+Similitud: 0.82
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 2
+EMPTYs: {2, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 3
+EMPTYs: {3, 6, 19}
+Vertice de inicio de la f2: 1
+Similitud: 0.8
+
+**** Comparacion de la imagen ../images/brick/brick-14.gif ****
+
+Con la imagen ../images/brick/brick-14.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 1
+EMPTYs: {5}
+Vertice de inicio de la f2: 11
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 23
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 2
+EMPTYs: {11, 24}
+Vertice de inicio de la f2: 14
+Similitud: 0.83
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {24}
+Vertice de inicio de la f2: 22
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 2
+EMPTYs: {12, 15}
+Vertice de inicio de la f2: 22
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {14}
+Vertice de inicio de la f2: 16
+Similitud: 0.87
+
+**** Comparacion de la imagen ../images/brick/brick-15.gif ****
+
+Con la imagen ../images/brick/brick-15.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 23
+Similitud: 0.88
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 11
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 1
+EMPTYs: {1}
+Vertice de inicio de la f2: 12
+Similitud: 0.85
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 3
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-16.gif ****
+
+Con la imagen ../images/brick/brick-16.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 1
+EMPTYs: {17}
+Vertice de inicio de la f2: 7
+Similitud: 0.86
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 13
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 15
+Similitud: 0.85
+
+**** Comparacion de la imagen ../images/brick/brick-17.gif ****
+
+Con la imagen ../images/brick/brick-17.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 1
+EMPTYs: {11}
+Vertice de inicio de la f2: 11
+Similitud: 0.87
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 12
+Similitud: 0.91
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {19}
+Vertice de inicio de la f2: 13
+Similitud: 0.88
+
+**** Comparacion de la imagen ../images/brick/brick-18.gif ****
+
+Con la imagen ../images/brick/brick-18.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 1
+EMPTYs: {21}
+Vertice de inicio de la f2: 22
+Similitud: 0.84
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 21
+Similitud: 0.84
+
+**** Comparacion de la imagen ../images/brick/brick-19.gif ****
+
+Con la imagen ../images/brick/brick-19.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 3
+Similitud: 0.87
+
+**** Comparacion de la imagen ../images/brick/brick-20.gif ****
+
+Con la imagen ../images/brick/brick-20.gif
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+FE execution time: 0.19
+QD execution time: 0
+SimQSD execution time: 3320.35
+Total execution time: 3320.54

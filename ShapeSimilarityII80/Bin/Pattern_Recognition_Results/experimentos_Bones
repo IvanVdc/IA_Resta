@@ -1,0 +1,22 @@
+ 
+./RecFormas -fCD Bone-1.bmp Bone-3.bmp Bone-4.bmp Bone-6 Bone-7 Bone-8 Bone-11 Bone-12 Bone-17 Bone-18 > Bones_todos_tabla_Sim_CNDs
+
+--------------------
+
+./RecFormas -fCD Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-12 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_CNDs
+
+ ./RecFormas -fCD Bone-12 Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_CNDs_empieza_Bone-12
+
+./RecFormas -fCD Glas-1 Glas-20 Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-12 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_CNDs_con_Glas-1y20
+
+---------------------
+
+./RecFormas -fCD Bone-1.bmp Bone-3.bmp Bone-4.bmp Bone-6 Bone-7 Bone-8 Bone-11 Bone-12 Bone-17 Bone-18 > Bones_todos_tabla_Sim_intervalar
+
+---------------------
+
+./RecFormas -fCD Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-12 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_intervalar
+
+ ./RecFormas -fCD Bone-12 Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_intervalar_empieza_Bone-12
+
+./RecFormas -fCD Glas-1 Glas-20 Bone-1.bmp Bone-2.bmp Bone-3.bmp Bone-4.bmp Bone-5.bmp Bone-6 Bone-7 Bone-8 Bone-9 Bone-10 Bone-11 Bone-12 Bone-13 Bone-14 Bone-15 Bone-16 Bone-17 Bone-18 Bone-19 Bone-20 > Bones_todos_1-20_para_ordenar_Sim_intervalar_con_Glas-1y2

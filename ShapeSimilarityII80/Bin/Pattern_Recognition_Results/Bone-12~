@@ -1,0 +1,12 @@
+
+Bone-12-CND:
+
+[[NONAME,non-regular,concave],[[line-line,acute,ql,convex],[line-line,obtuse,sl,concave],[line-line,acute,hl,convex],[line-line,obtuse,dl,concave],[line-line,acute,hl,convex],[line-line,obtuse,msh,concave],[line-line,very_obtuse,ml,concave],[line-line,acute,sl,convex],[line-line,obtuse,sl,concave],[line-line,acute,ql,convex],[line-line,right,sl,concave],[line-line,very_acute,qsh,convex],[line-line,right,sl,concave],[line-line,very_acute,sl,convex],[line-line,obtuse,msh,concave],[line-line,obtuse,ml,concave],[line-line,acute,sl,convex],[line-line,right,qsh,concave]]]
+
+Bone-12-intervalar:
+
+[[NONAME,non-regular,concave],[[line-line,acute,ql,convex],[line-line,obtuse,sl,concave],[line-line,acute,hl,convex],[line-line,obtuse,dl,concave],[line-line,acute,hl,convex],[line-line,obtuse,msh,concave],[line-line,very_obtuse,ml,concave],[line-line,acute,sl,convex],[line-line,obtuse,sl,concave],[line-line,acute,ql,convex],[line-line,right,sl,concave],[line-line,very_acute,qsh,convex],[line-line,right,sl,concave],[line-line,very_acute,sl,convex],[line-line,obtuse,msh,concave],[line-line,obtuse,ml,concave],[line-line,acute,sl,convex],[line-line,right,qsh,concave]]]
+
+Bone-1 CND:
+
+[[NONAME,non-regular,concave],[[line-line,obtuse,qsh,convex],[line-line,obtuse,ql,convex],[line-line,obtuse,sl,concave],[line-line,obtuse,qsh,convex],[line-line,obtuse,ql,convex],[line-line,obtuse,qsh,convex],[line-line,obtuse,msh,concave],[line-line,very_obtuse,ml,concave],[line-line,obtuse,ql,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,ql,convex],[line-line,right,sl,concave],[line-line,obtuse,sl,convex],[line-line,obtuse,sl,convex],[line-line,obtuse,qsh,convex],[line-line,obtuse,msh,concave],[line-line,obtuse,ml,concave],[line-line,obtuse,ql,convex]]]

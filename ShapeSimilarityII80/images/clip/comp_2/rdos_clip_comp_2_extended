@@ -1,0 +1,846 @@
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 492
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+***** Vecinos *****
+Vecinos de 1: 2 
+Vecinos de 2: 1 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/Heart.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 418
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/carlitos_Leaf.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 383
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/diamond.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 631
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/drop.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 1216
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+0
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/hat.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 575
+Tamaño del tV restante: 4
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/spade.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 546
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/arrow.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 484
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/arrow_2.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 595
+Tamaño del tV restante: 5
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/moon_cloud.jpg finished
+Starting figures extraction
+Loading PPM image...
+Starting segmentation process...
+Segmentation finished	2 parts segmentated
+borderPts maked
+Tamaño del tV restante: 493
+Tamaño del tV restante: 0
+Arrangement with BT completed
+Points extracted
+Figures' borders found: 2
+Something to calculate
+Error detectado en el calculo de vecinos: no coincide el numero de figuras de figV y felzNeighbours
+***** Vecinos *****
+Vecinos de 1: 
+Vecinos de 2: 
+FiguresExtractor finished
+2
+Generating Description...
+2
+Image clip/seal.jpg finished
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(198,1) line-line [right,convex,e]} {(196,198) line-line [right,convex,e]} {(0,195) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (99,99)
+	Area: 39593.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 6
+	QDescription: {(140,24) line-curve [obtuse,convex,e]} {(188,58) curvature-point [plane,convex,sth]} {(101,180) curve-curve [acute,convex,e]} {(16,60) curvature-point [plane,convex,ltd]} {(51,27) curve-curve [obtuse,convex,lth]} {(102,67) curve-line [right,concave,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (101,86)
+	Area: 15928.6
+	RGB Color: {255, 37, 36}
+	HSV Color: {0, 85, 100}
+	HSL Color: {0, 75, 57}
+	Color: red
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-curve,obtuse,sl,convex],[curvature-point,plane,msh,convex],[curve-curve,acute,sl,convex],[curvature-point,plane,ml,convex],[curve-curve,obtuse,qsh,convex],[curve-line,right,sl,concave]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,std]} {(139,0) line-line [right,convex,e]} {(140,173) line-line [right,convex,std]} {(0,173) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (70,88)
+	Area: 24808.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,ql,convex],[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 7
+	QDescription: {(37,15) line-curve [acute,convex,lth]} {(114,92) curvature-point [plane,convex,d]} {(81,134) curve-line [acute,concave,e]} {(125,160) line-curve [NONE,convex,e]} {(77,135) curvature-point [very-plane,concave,ltd]} {(59,142) curve-curve [obtuse,convex,sth]} {(14,98) curve-line [obtuse,convex,lth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (60,86)
+	Area: 9173.17
+	RGB Color: {78, 136, 26}
+	HSV Color: {92, 81, 53}
+	HSL Color: {92, 68, 31}
+	Color: green
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-curve,acute,qsh,convex],[curvature-point,plane,dl,convex],[curve-line,acute,sl,concave],[line-curve,very_acute,sl,convex],[curvature-point,very-plane,ml,concave],[curve-curve,obtuse,msh,convex],[curve-line,obtuse,qsh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(198,1) line-line [right,convex,e]} {(196,198) line-line [right,convex,e]} {(0,195) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (99,99)
+	Area: 39593.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 4
+	QDescription: {(101,20) line-curve [right,convex,e]} {(183,101) curvature-point [semicircular,convex,e]} {(101,179) curve-curve [right,convex,e]} {(18,101) curve-line [right,convex,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (100,101)
+	Area: 10972.9
+	RGB Color: {254, 0, 0}
+	HSV Color: {0, 100, 99}
+	HSL Color: {0, 100, 49}
+	Color: red
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-curve,right,sl,convex],[curvature-point,semicircular,sl,convex],[curve-curve,right,sl,convex],[curve-line,right,sl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,std]} {(208,1) line-line [right,convex,lth]} {(208,280) line-line [right,convex,std]} {(0,279) line-line [right,convex,lth]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (104,140)
+	Area: 58721.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,ql,convex],[line-line,right,qsh,convex],[line-line,right,ql,convex],[line-line,right,qsh,convex]]]
+
+Figure's id: 1
+	Num vertices: 4
+	QDescription: {(106,6) line-line [acute,convex,e]} {(204,174) line-curve [obtuse,convex,std]} {(116,278) curvature-point [semicircular,convex,e]} {(5,188) curve-line [obtuse,convex,lth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (104,168)
+	Area: 34030.3
+	RGB Color: {0, 0, 0}
+	HSV Color: {0, 0, 0}
+	HSL Color: {0, 0, 0}
+	Color: black
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,acute,sl,convex],[line-curve,obtuse,ql,convex],[curvature-point,semicircular,sl,convex],[curve-line,obtuse,qsh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,lth]} {(533,1) line-line [right,convex,std]} {(530,377) line-line [right,convex,lth]} {(1,377) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (267,189)
+	Area: 201844
+	RGB Color: {0, 0, 0}
+	HSV Color: {0, 16777216, 0}
+	HSL Color: {0, 0, 0}
+	Color: black
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,qsh,convex],[line-line,right,ql,convex],[line-line,right,qsh,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 3
+	QDescription: {(526,307) curvature-point [plane,convex,ltd]} {(398,371) curve-curve [obtuse,convex,sth]} {(8,189) curvature-point [very-acute,convex,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Only curves
+	Centroid: (253,189)
+	Area: 113969
+	RGB Color: {0, 0, 0}
+	HSV Color: {0, 16777216, 0}
+	HSL Color: {0, 0, 0}
+	Color: black
+	Convex figure
+	[[NONAME,non-regular,convex],[[curvature-point,plane,ml,convex],[curve-curve,obtuse,msh,convex],[curvature-point,very-acute,sl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(198,1) line-line [right,convex,e]} {(196,198) line-line [right,convex,e]} {(0,195) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (99,99)
+	Area: 39593.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 10
+	QDescription: {(100,7) line-line [acute,convex,e]} {(170,111) line-curve [right,convex,ltd]} {(136,135) curvature-point [plane,convex,e]} {(105,116) curve-line [acute,concave,e]} {(105,157) line-line [NONE,concave,std]} {(124,180) line-line [acute,convex,h]} {(75,182) line-curve [acute,convex,lth]} {(93,116) curvature-point [acute,concave,std]} {(58,135) curve-curve [obtuse,convex,e]} {(27,108) curve-line [obtuse,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (98,93)
+	Area: 11868.5
+	RGB Color: {8, 8, 8}
+	HSV Color: {0, 0, 3}
+	HSL Color: {0, 0, 3}
+	Color: black
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,sl,convex],[line-curve,right,ml,convex],[curvature-point,plane,sl,convex],[curve-line,acute,sl,concave],[line-line,very_obtuse,ql,concave],[line-line,acute,hl,convex],[line-curve,acute,qsh,convex],[curvature-point,acute,ql,concave],[curve-curve,obtuse,sl,convex],[curve-line,obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(218,1) line-line [right,convex,e]} {(216,218) line-line [right,convex,e]} {(0,215) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (109,109)
+	Area: 47953.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 7
+	QDescription: {(109,11) line-line [acute,convex,e]} {(179,136) line-line [acute,convex,ltd]} {(155,137) line-line [right,concave,sth]} {(150,208) line-line [right,convex,e]} {(66,208) line-line [right,convex,std]} {(65,139) line-line [obtuse,concave,ltd]} {(37,136) line-line [acute,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (109,126)
+	Area: 15668.8
+	RGB Color: {190, 222, 139}
+	HSV Color: {83, 37, 87}
+	HSL Color: {83, 19, 70}
+	Color: green
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,sl,convex],[line-line,acute,ml,convex],[line-line,right,msh,concave],[line-line,right,sl,convex],[line-line,right,ql,convex],[line-line,obtuse,ml,concave],[line-line,acute,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,h]} {(218,1) line-line [right,convex,d]} {(216,108) line-line [right,convex,h]} {(2,108) line-line [right,convex,d]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (109,54)
+	Area: 23863.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,hl,convex],[line-line,right,dl,convex],[line-line,right,hl,convex],[line-line,right,dl,convex]]]
+
+Figure's id: 1
+	Num vertices: 10
+	QDescription: {(66,8) line-line [acute,convex,ltd]} {(70,31) line-line [obtuse,concave,sth]} {(149,31) line-line [obtuse,concave,ltd]} {(154,11) line-line [acute,convex,sth]} {(206,55) line-line [acute,convex,e]} {(153,100) line-line [acute,convex,ltd]} {(148,79) line-line [obtuse,concave,sth]} {(69,79) line-line [obtuse,concave,ltd]} {(64,100) line-line [acute,convex,sth]} {(12,54) line-line [acute,convex,e]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	Without curves
+	Centroid: (109,55)
+	Area: 9340.94
+	RGB Color: {104, 219, 12}
+	HSV Color: {93, 94, 85}
+	HSL Color: {93, 89, 45}
+	Color: green
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,acute,ml,convex],[line-line,obtuse,msh,concave],[line-line,obtuse,ml,concave],[line-line,acute,msh,convex],[line-line,acute,sl,convex],[line-line,acute,ml,convex],[line-line,obtuse,msh,concave],[line-line,obtuse,ml,concave],[line-line,acute,msh,convex],[line-line,acute,sl,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,e]} {(218,1) line-line [right,convex,e]} {(216,218) line-line [right,convex,e]} {(0,215) line-line [right,convex,e]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (109,109)
+	Area: 47953.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	Regular polygon
+	[[NONAME,regular,convex],[[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex],[line-line,right,sl,convex]]]
+
+Figure's id: 1
+	Num vertices: 12
+	QDescription: {(63,29) line-line [obtuse,convex,ltd]} {(78,30) line-line [acute,convex,sth]} {(52,74) line-line [NONE,concave,ltd]} {(58,94) line-curve [acute,concave,h]} {(95,68) curvature-point [plane,convex,lth]} {(156,103) curve-curve [obtuse,concave,ltd]} {(181,93) curvature-point [plane,convex,e]} {(202,116) curve-curve [obtuse,convex,std]} {(193,131) curve-line [obtuse,convex,sth]} {(15,129) line-line [obtuse,convex,ltd]} {(11,114) line-line [NONE,convex,lth]} {(18,92) line-line [NONE,convex,sth]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (92,98)
+	Area: 10522.2
+	RGB Color: {243, 243, 243}
+	HSV Color: {0, 0, 95}
+	HSL Color: {0, 0, 95}
+	Color: white
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,ml,convex],[line-line,acute,msh,convex],[line-line,very_obtuse,ml,concave],[line-curve,acute,hl,concave],[curvature-point,plane,qsh,convex],[curve-curve,obtuse,ml,concave],[curvature-point,plane,sl,convex],[curve-curve,obtuse,ql,convex],[curve-line,obtuse,msh,convex],[line-line,obtuse,ml,convex],[line-line,very_obtuse,qsh,convex],[line-line,very_obtuse,msh,convex]]]
+
+Figure's id: 0
+	Num vertices: 4
+	QDescription: {(0,0) line-line [right,convex,lth]} {(218,1) line-line [right,convex,std]} {(216,138) line-line [right,convex,lth]} {(2,138) line-line [right,convex,std]} 
+	Compound: True - Components' id: { 1 }
+	Internal: False
+	Without curves
+	Centroid: (109,69)
+	Area: 30433.4
+	RGB Color: {255, 255, 255}
+	HSV Color: {0, 0, 100}
+	HSL Color: {0, 0, 100}
+	Color: white
+	Convex figure
+	[[NONAME,non-regular,convex],[[line-line,right,qsh,convex],[line-line,right,ql,convex],[line-line,right,qsh,convex],[line-line,right,ql,convex]]]
+
+Figure's id: 1
+	Num vertices: 13
+	QDescription: {(186,16) line-line [obtuse,convex,ltd]} {(208,20) line-line [acute,convex,sth]} {(140,127) line-line [acute,convex,ltd]} {(135,118) line-line [NONE,convex,std]} {(137,109) line-line [acute,concave,h]} {(118,113) line-curve [NONE,convex,sth]} {(66,103) curvature-point [very-plane,concave,std]} {(36,114) curve-curve [obtuse,convex,e]} {(11,98) curve-line [acute,convex,e]} {(37,81) line-line [NONE,convex,std]} {(56,82) line-line [NONE,concave,sth]} {(115,56) line-line [NONE,convex,d]} {(147,57) line-line [NONE,concave,h]} 
+	Compound: False
+	Internal: True - Father's id: 0
+	With curves
+	Centroid: (120,80)
+	Area: 8717.87
+	RGB Color: {0, 0, 0}
+	HSV Color: {0, 0, 0}
+	HSL Color: {0, 0, 0}
+	Color: black
+	Concave figure
+	[[NONAME,non-regular,concave],[[line-line,obtuse,ml,convex],[line-line,acute,msh,convex],[line-line,acute,ml,convex],[line-line,very_obtuse,ql,convex],[line-line,acute,hl,concave],[line-curve,very_obtuse,msh,convex],[curvature-point,very-plane,ql,concave],[curve-curve,obtuse,sl,convex],[curve-line,acute,sl,convex],[line-line,very_obtuse,ql,convex],[line-line,very_obtuse,msh,concave],[line-line,very_obtuse,dl,convex],[line-line,very_obtuse,hl,concave]]]
+**********************************
+**** Comparacion de la imagen ../images/clip/Heart.jpg ****
+
+Con la imagen ../images/clip/Heart.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/carlitos_Leaf.jpg
+Diferencia de vertices: 1
+EMPTYs: {2}
+Vertice de inicio de la f2: 0
+Similitud: 0.75
+
+Con la imagen ../images/clip/diamond.jpg
+Diferencia de vertices: 2
+EMPTYs: {3, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.64
+
+Con la imagen ../images/clip/drop.jpg
+Diferencia de vertices: 2
+EMPTYs: {3, 5}
+Vertice de inicio de la f2: 1
+Similitud: 0.59
+
+Con la imagen ../images/clip/hat.jpg
+Diferencia de vertices: 3
+EMPTYs: {0, 2, 5}
+Vertice de inicio de la f2: 2
+Similitud: 0.49
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 4
+EMPTYs: {0, 4, 7, 9}
+Vertice de inicio de la f2: 3
+Similitud: 0.55
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 1
+EMPTYs: {5}
+Vertice de inicio de la f2: 2
+Similitud: 0.6
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 4
+EMPTYs: {1, 2, 6, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.43
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 2, 5, 8, 11}
+Vertice de inicio de la f2: 5
+Similitud: 0.42
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 7
+EMPTYs: {2, 3, 6, 9, 10, 11, 12}
+Vertice de inicio de la f2: 3
+Similitud: 0.39
+
+**** Comparacion de la imagen ../images/clip/carlitos_Leaf.jpg ****
+
+Con la imagen ../images/clip/carlitos_Leaf.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/diamond.jpg
+Diferencia de vertices: 3
+EMPTYs: {2, 3, 4}
+Vertice de inicio de la f2: 0
+Similitud: 0.56
+
+Con la imagen ../images/clip/drop.jpg
+Diferencia de vertices: 3
+EMPTYs: {1, 2, 4}
+Vertice de inicio de la f2: 0
+Similitud: 0.53
+
+Con la imagen ../images/clip/hat.jpg
+Diferencia de vertices: 4
+EMPTYs: {0, 2, 3, 6}
+Vertice de inicio de la f2: 2
+Similitud: 0.39
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 3
+EMPTYs: {1, 4, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.66
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 1
+Similitud: 0.7
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 3
+EMPTYs: {2, 3, 7}
+Vertice de inicio de la f2: 1
+Similitud: 0.5
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 1, 2, 6, 9}
+Vertice de inicio de la f2: 2
+Similitud: 0.5
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 2, 3, 10, 12}
+Vertice de inicio de la f2: 2
+Similitud: 0.48
+
+**** Comparacion de la imagen ../images/clip/diamond.jpg ****
+
+Con la imagen ../images/clip/diamond.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/drop.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 1
+Similitud: 0.93
+
+Con la imagen ../images/clip/hat.jpg
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 0
+Similitud: 0.65
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 3, 4, 5, 6, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.38
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 3
+EMPTYs: {1, 2, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.46
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 2, 5, 6, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.32
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 8
+EMPTYs: {0, 1, 2, 3, 4, 5, 9, 11}
+Vertice de inicio de la f2: 1
+Similitud: 0.32
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 9
+EMPTYs: {0, 1, 2, 3, 4, 6, 10, 11, 12}
+Vertice de inicio de la f2: 1
+Similitud: 0.28
+
+**** Comparacion de la imagen ../images/clip/drop.jpg ****
+
+Con la imagen ../images/clip/drop.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/hat.jpg
+Diferencia de vertices: 1
+EMPTYs: {0}
+Vertice de inicio de la f2: 2
+Similitud: 0.62
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 6
+EMPTYs: {1, 2, 3, 4, 5, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.38
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 3
+EMPTYs: {1, 2, 5}
+Vertice de inicio de la f2: 3
+Similitud: 0.49
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 1, 2, 5, 6, 7}
+Vertice de inicio de la f2: 1
+Similitud: 0.34
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 8
+EMPTYs: {0, 1, 2, 3, 5, 7, 9, 11}
+Vertice de inicio de la f2: 1
+Similitud: 0.32
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 9
+EMPTYs: {0, 1, 2, 3, 4, 6, 10, 11, 12}
+Vertice de inicio de la f2: 1
+Similitud: 0.29
+
+**** Comparacion de la imagen ../images/clip/hat.jpg ****
+
+Con la imagen ../images/clip/hat.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 7
+EMPTYs: {0, 2, 3, 4, 5, 6, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.27
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 4
+EMPTYs: {2, 3, 4, 5}
+Vertice de inicio de la f2: 2
+Similitud: 0.32
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 7
+EMPTYs: {0, 1, 2, 3, 4, 6, 7}
+Vertice de inicio de la f2: 0
+Similitud: 0.23
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 9
+EMPTYs: {0, 1, 2, 3, 5, 8, 9, 10, 11}
+Vertice de inicio de la f2: 2
+Similitud: 0.23
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 10
+EMPTYs: {0, 1, 3, 4, 5, 6, 9, 10, 11, 12}
+Vertice de inicio de la f2: 0
+Similitud: 0.2
+
+**** Comparacion de la imagen ../images/clip/spade.jpg ****
+
+Con la imagen ../images/clip/spade.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 3
+EMPTYs: {2, 3, 8}
+Vertice de inicio de la f2: 0
+Similitud: 0.61
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 4
+Similitud: 0.72
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 2
+EMPTYs: {5, 9}
+Vertice de inicio de la f2: 1
+Similitud: 0.67
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 3
+EMPTYs: {0, 2, 4}
+Vertice de inicio de la f2: 4
+Similitud: 0.66
+
+**** Comparacion de la imagen ../images/clip/arrow.jpg ****
+
+Con la imagen ../images/clip/arrow.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 3
+EMPTYs: {0, 1, 7}
+Vertice de inicio de la f2: 5
+Similitud: 0.7
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 5
+EMPTYs: {0, 3, 5, 6, 7}
+Vertice de inicio de la f2: 4
+Similitud: 0.52
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 6
+EMPTYs: {0, 3, 5, 6, 7, 12}
+Vertice de inicio de la f2: 0
+Similitud: 0.5
+
+**** Comparacion de la imagen ../images/clip/arrow_2.jpg ****
+
+Con la imagen ../images/clip/arrow_2.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 2
+EMPTYs: {3, 5}
+Vertice de inicio de la f2: 0
+Similitud: 0.67
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 3
+EMPTYs: {6, 7, 11}
+Vertice de inicio de la f2: 3
+Similitud: 0.65
+
+**** Comparacion de la imagen ../images/clip/moon_cloud.jpg ****
+
+Con la imagen ../images/clip/moon_cloud.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 1
+EMPTYs: {3}
+Vertice de inicio de la f2: 0
+Similitud: 0.76
+
+**** Comparacion de la imagen ../images/clip/seal.jpg ****
+
+Con la imagen ../images/clip/seal.jpg
+Diferencia de vertices: 0
+Vertice de inicio de la f2: 0
+Similitud: 1
+
+FE execution time: 0.08
+QD execution time: 0
+SimQSD execution time: 0.16
+Total execution time: 0.24

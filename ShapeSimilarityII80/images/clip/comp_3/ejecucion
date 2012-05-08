@@ -1,0 +1,2 @@
+./RecFormas -fD clip/comp_3/bishop_2.jpg clip/comp_3/bishop.jpg clip/comp_3/king.jpg clip/comp_3/king_2.jpg clip/comp_3/knight_2.jpg clip/comp_3/pawn.jpg clip/comp_3/pawn_2.jpg clip/comp_3/Pawn_1.jpg clip/comp_3/queen.jpg clip/comp_3/queen_2.jpg clip/comp_3/rook.jpg clip/comp_3/rook_2.jpg > rdos_chess
+

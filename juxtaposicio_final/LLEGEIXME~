@@ -1,0 +1,26 @@
+Per a compilar:
+
+El recformas amb el make.
+
+El juxtaposi.cpp, el executa.cpp amb g++ -o executa executa.cpp juxtaposi.cpp
+
+El dibuixa.cpp (per a escriure els numeros del vertexs) amb g++ -o dibuixa dibuixa.cpp -O2 -L/usr/X11R6/lib -lm -lpthread -lX11
+
+El dibuixa_resul.cxx (per a dibuixar la figura resultant) amb el make que hem creat.
+
+
+Per executar:
+
+El funcionament esta pensat per a que siga executat en la terminal, pero si es vol realitzar la juxtaposicio per terminal es fá, aixi: ./executa [descrip1] [descrip] v1f1 v2f1 v1f2 v2f2
+
+
+Exemples:
+
+Com el recformas no està adaptat per treure forats, per saber quina es la descripció final es fa des de terminal. Un exemple és:
+
+[[NONAME, regular, convex], [[acute,equal,convex], [acute, equal, convex], [acute, equal, convex]], CIi,C,[[right,smaller,convex],[right,bigger,conve],[right,smaller,convex],[right,bigger,convex]]]
+
+[[NONAME, regular, convex], [[right,equal,convex], [right, equal, convex], [right, equal, convex], [right, equal, convex]]]
+
+./executa [[NONAME,regular,convex],[[acute,equal,convex],[acute,equal,convex],[acute,equal,convex]],CIi,C,[[right,smaller,convex],[right,bigger,conve],[right,smaller,convex],[right,bigger,convex]]] [[NONAME,regular,convex],[[right,equal,convex],[right,equal,convex],[right,equal,convex],[right,equal,convex]]] 2 3 1 2 
+

@@ -1,0 +1,232 @@
+Numero de vertices 4
+Vertice num 0
+Coordenadas: 24, 24
+Conexion: 0
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 1
+Coordenadas: 386, 26
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 2
+Coordenadas: 383, 328
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 3
+Coordenadas: 24, 327
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 0
+
+Numero de vertices 4
+Vertice num 0
+Coordenadas: 0, 0
+Conexion: 0
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 1
+Coordenadas: 362, 0
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 2
+Coordenadas: 362, 304
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 1
+
+Vertice num 3
+Coordenadas: 0, 304
+Conexion: 1
+Curvatura: 2
+Longitud: 3
+Convexidad: 0
+
+Numero de vertices 4
+Vertice num 0
+Coordenadas: 41, 46
+Conexion: 1
+Curvatura: 2
+Longitud: 2
+Convexidad: 0
+
+Vertice num 1
+Coordenadas: 167, 46
+Conexion: 0
+Curvatura: 2
+Longitud: 4
+Convexidad: 1
+
+Vertice num 2
+Coordenadas: 168, 142
+Conexion: 1
+Curvatura: 2
+Longitud: 2
+Convexidad: 1
+
+Vertice num 3
+Coordenadas: 40, 143
+Conexion: 1
+Curvatura: 2
+Longitud: 4
+Convexidad: 1
+
+Numero de vertices 4
+Vertice num 0
+Coordenadas: 0, 0
+Conexion: 1
+Curvatura: 2
+Longitud: 2
+Convexidad: 0
+
+Vertice num 1
+Coordenadas: 127, 0
+Conexion: 0
+Curvatura: 2
+Longitud: 4
+Convexidad: 1
+
+Vertice num 2
+Coordenadas: 127, 96
+Conexion: 1
+Curvatura: 2
+Longitud: 2
+Convexidad: 1
+
+Vertice num 3
+Coordenadas: 0, 96
+Conexion: 1
+Curvatura: 2
+Longitud: 4
+Convexidad: 1
+
+n(0,30) si
+Punto x 0 y 0
+Punto x 20 y 0
+Punto x 40 y 0
+Punto x 60 y 0
+Punto x 80 y 0
+Punto x 100 y 0
+Punto x 120 y 0
+
+Punto x 127 y 0
+Punto x 127 y 20
+Punto x 127 y 40
+Punto x 127 y 60
+Punto x 127 y 80
+
+Punto x 127 y 96
+Punto x 107 y 96
+Punto x 87 y 96
+Punto x 67 y 96
+Punto x 47 y 96
+Punto x 27 y 96
+Punto x 7 y 96
+
+Punto x 0 y 96
+Punto x 0 y 76
+Punto x 0 y 56
+Punto x 0 y 36
+jijaju n
+
+m(40,40) no
+Punto x 0 y 0
+Punto x 20 y 0
+Punto x 40 y 0
+Punto x 60 y 0
+Punto x 80 y 0
+Punto x 100 y 0
+Punto x 120 y 0
+Punto x 127 y 0
+Punto x 127 y 20
+Punto x 127 y 40
+Punto x 127 y 60
+Punto x 127 y 80
+Punto x 127 y 96
+Punto x 107 y 96
+Punto x 87 y 96
+Punto x 67 y 96
+Punto x 47 y 96
+Punto x 27 y 96
+Punto x 7 y 96
+Punto x 0 y 96
+Punto x 0 y 76
+Punto x 0 y 56
+Punto x 0 y 36
+Punto x 0 y 16
+u(10,0) si
+Punto x 0 y 0
+jijaju u
+l(127,70) si
+Punto x 0 y 0
+Punto x 20 y 0
+Punto x 40 y 0
+Punto x 60 y 0
+Punto x 80 y 0
+Punto x 100 y 0
+Punto x 120 y 0
+Punto x 127 y 0
+Punto x 127 y 20
+Punto x 127 y 40
+Punto x 127 y 60
+jijaju l
+p(127,100) no
+Punto x 0 y 0
+Punto x 20 y 0
+Punto x 40 y 0
+Punto x 60 y 0
+Punto x 80 y 0
+Punto x 100 y 0
+Punto x 120 y 0
+Punto x 127 y 0
+Punto x 127 y 20
+Punto x 127 y 40
+Punto x 127 y 60
+Punto x 127 y 80
+Punto x 127 y 96
+Punto x 107 y 96
+Punto x 87 y 96
+Punto x 67 y 96
+Punto x 47 y 96
+Punto x 27 y 96
+Punto x 7 y 96
+Punto x 0 y 96
+Punto x 0 y 76
+Punto x 0 y 56
+Punto x 0 y 36
+Punto x 0 y 16
+r(17,96) si
+Punto x 0 y 0
+Punto x 20 y 0
+Punto x 40 y 0
+Punto x 60 y 0
+Punto x 80 y 0
+Punto x 100 y 0
+Punto x 120 y 0
+Punto x 127 y 0
+Punto x 127 y 20
+Punto x 127 y 40
+Punto x 127 y 60
+Punto x 127 y 80
+Punto x 127 y 96
+Punto x 107 y 96
+Punto x 87 y 96
+Punto x 67 y 96
+Punto x 47 y 96
+Punto x 27 y 96
+jijaju r
+jijaju

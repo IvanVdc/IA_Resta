@@ -1,0 +1,30 @@
+Starting figures extraction
+638 638
+Edges detected
+Extracting figures...
+Tic
+Points extracted
+Figures' borders found: 1
+FiguresExtractor finished
+1
+Generating Description...
+1
+Image flecha.bmp finished
+FE execution time: 0.12
+QD execution time: 0
+Total execution time: 0.12
+
+Figure's id: 0
+	Num vertices: 8
+	QDescription: {(193,92) line-line [acute,convex,lth]} {(244,136) line-line [acute,convex,e]} {(194,178) line-line [acute,convex,std]} {(191,160) line-line [obtuse,concave,lth]} {(35,157) line-line [acute,convex,std]} {(57,136) line-line [right,concave,e]} {(35,113) line-line [acute,convex,lth]} {(192,109) line-line [right,concave,std]} 
+	Compound: False
+	Internal: False
+	Without curves
+	Centroid: (143,136)
+	Area: 9180.85
+	RGB Color: {255, 153, 0}
+	HSV Color: {36, 100, 100}
+	HSL Color: {36, 100, 50}
+	Color: None
+	Concave figure
+	[[NONAME,non-regular,concave],[[acute,smaller,convex],[acute,equal,convex],[acute,bigger,convex],[obtuse,smaller,concave],[acute,bigger,convex],[right,equal,concave],[acute,smaller,convex],[right,bigger,concave]]]
