@@ -9,6 +9,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iterator>
+#include <cmath>
 
 #define UMBRAL 3
 
@@ -35,7 +36,6 @@ void StringExplode(string str, string separator, vector<string>* results){
    }
 }
 
-
 struct Posicion{
   int x;
   int y;
@@ -48,6 +48,22 @@ struct Posicion{
     return ((p.x < x) && (abs(p.y - y)<=5));
   }
 };
+
+
+int Longitud (Posicion p, Posicion q){
+  int r1,r2;
+  float p1,p2;
+  // Restamos los valores de X y de Y
+  r1 = p.x - q.x;
+  r2 = p.y - q.y;
+
+  // Elevamos al cuadrado
+  p1 =  pow( r1, 2);
+  p2 =  pow( r2, 2);
+
+  // Calculamos la raíz cuadrada de la suma
+  return (int) sqrt( p1 + p2 );
+}
 
 struct Vertice{
   Posicion * pos;
@@ -428,10 +444,38 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     i2n--;
   }
 
+  fig1->NadaVisitado();
+  fig2->NadaVisitado();
+
   Figura *fig_res;
   fig_res = new Figura(vertices);
-  return fig_res;
 
+  int ant = Longitud(*fig_res->vertices[fig_res->tam-1].pos,*fig_res->vertices[0].pos);
+  int sig;
+
+  cout << "antes for" << endl;
+  for (int i = 0; i < fig_res->tam; i++){
+    sig=Longitud(*fig_res->vertices[i].pos,*fig_res->vertices[(i+1)%fig_res->tam].pos);
+    cout << "dins for sig= " << sig << " ant " << ant << endl;
+    if( ant <= 0.4 * sig)
+      fig_res->vertices[i].longitud=0;
+    else if( ant <= 0.6 * sig)
+      fig_res->vertices[i].longitud=1;
+    else if( ant <= 0.9 * sig)
+      fig_res->vertices[i].longitud=2;
+    else if( ant <= 1.1 * sig)
+      fig_res->vertices[i].longitud=3;
+    else if( ant <= 1.9 * sig)
+      fig_res->vertices[i].longitud=4;
+    else if( ant <= 2.1 * sig)
+      fig_res->vertices[i].longitud=5;
+    else fig_res->vertices[i].longitud=6;
+
+    ant=sig;
+  }
+  cout << "despues for" << endl;
+
+  return fig_res;
 }
 
 
