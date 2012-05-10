@@ -40,12 +40,8 @@ struct Posicion{
   int x;
   int y;
   Posicion(int a, int b){x=a; y=b;}
-
   bool EsIgual(Posicion p){
-    return (abs(p.x - x)<=5 && abs(p.y - y)<=5);
-  }
-  bool EstaIzq(Posicion p){
-    return ((p.x < x) && (abs(p.y - y)<=5));
+    return (p.x == x && p.y ==y);
   }
 };
 
@@ -196,6 +192,8 @@ struct Figura{
       it=vertices.begin();
       vertices.insert(it, aux);
     }
+
+
   }
 
   void mostrar(){
@@ -345,126 +343,87 @@ Figura* LeerFigura (char * figura){
 }
 
 
-Figura* Restar (Figura *fig1, Figura *fig2){
+Figura *Restar (Figura fig1, Figura fig2){
   vector <Vertice> vertices;
   int x1,y1,x2,y2;
-  int i1, i2;
-  int i1n, i2n;
-  int iguales = 1;
+  int total;
+  int count;
+  int i1=1, i2=1;
 
-  fig1->NadaVisitado();
-  fig2->NadaVisitado();
+  fig1.NadaVisitado();
+  fig2.NadaVisitado();
+
+  total = fig1->tam + fig2->tam;
+  count=3;
 
   fig1->vertices[0].visitado=true;
-  fig2->vertices[0].visitado=true;  
+  fig2->vertices[0].visitado=true;
 
-  iguales = 1;
-  i1n=fig1->tam-1;
-  i2n=fig2->tam-1;
-  while (iguales) {
-    if (fig1->vertices[i1n].pos->EsIgual(*fig2->vertices[i2n].pos)){
-      fig1->vertices[i1n].visitado=true;
-      fig2->vertices[i2n].visitado=true;
-      i1n--;
-      i2n--;
-      if (i1n == -1){
-	Figura *fig_res;
-	fig_res = new Figura(vertices);
-	return fig_res;
-      }
-    }
-    else iguales = 0;
-  }
+  int x1=fig1->vertices[1].pos->x, y1=fig1->vertices[1].pos->y;
+  int x2=fig2->vertices[1].pos->x, y2=fig2->vertices[1].pos->y;
 
-  iguales = 1;
-  i1=1;
-  i2=1;
-  while (iguales) {
-    if (fig1->vertices[i1].pos->EsIgual(*fig2->vertices[i2].pos)){
+  Vertice ver(x2, y2, 1, -1, -1, -1);
+  fig2->vertices[i2].visitado=true;
+  vertices.push_back(ver);
+  count++;
+  i2++;
+  x2=fig2->vertices[i2].pos->x, y2=fig2->vertices[i2].pos->y;
+
+  while (count<=total){
+    if (x1>x2){
+      Vertice ver(x1, y1, 1, -1, -1, -1);
       fig1->vertices[i1].visitado=true;
-      fig2->vertices[i2].visitado=true;
+      vertices.push_back(ver);
+      count++;
+      x2=fig2->vertices[i1].pos->x, y2=fig2->vertices[i1].pos->y;
       i1++;
-      i2++;
     }
-    else iguales = 0;
+
+    if (vertices[i].pos->x < x) x = vertices[i].pos->x;
+    if (vertices[i].pos->y < y) y = vertices[i].pos->y;
   }
 
-
-  //Primera linea de la figura2 hasta llegar al primer vertice no visitado
-  for (int j=1; j<fig2->tam; j++){
-    if (!fig2->vertices[j].visitado)
-      if(fig2->vertices[i2].pos->EstaIzq(*fig2->vertices[j].pos)){
-	i2=j;
-      }
-  }
-  
-  //  for(desde i2 hasta 0 o hasta encontrar el primer visitado)
-  while(i2>0 && fig2->vertices[i2].visitado==false){
-    x2=fig2->vertices[i2].pos->x;
-    y2=fig2->vertices[i2].pos->y;
-    fig2->vertices[i2].visitado=true;
-    Vertice ver(x2, y2, 1, -1, -1, -1);
-    vertices.push_back(ver);
-    i2--;
-  }
- 
-  //Todos los de la figura1 en orden horario
-  while(i1<fig1->tam && fig1->vertices[i1].visitado==false){
-    x1=fig1->vertices[i1].pos->x;
-    y1=fig1->vertices[i1].pos->y;
-    fig1->vertices[i1].visitado=true;
-    Vertice ver(x1, y1, 1, -1, -1, -1);
-    vertices.push_back(ver);
-    i1++;
-  }
-
-  //Todos los de la figura2 en orden antihorario
-  while(i2n>0 && fig2->vertices[i2n].visitado==false){
-    x2=fig2->vertices[i2n].pos->x;
-    y2=fig2->vertices[i2n].pos->y;
-    fig2->vertices[i2n].visitado=true;
-    Vertice ver(x2, y2, 1, -1, -1, -1);
-    vertices.push_back(ver);
-    i2n--;
-  }
-
-  Figura *fig_res;
-  fig_res = new Figura(vertices);
-  return fig_res;
+  Vertice ver(x, y, 1, -1, -1, -1);
+  vertices.push_back(ver);
 
 }
 
-
+*/
 
 int main(){
-  //  char *Nombre_figura1 = "gran.jpg";
   char *Nombre_figura1 = "quad2.jpg";
   Figura *fig1;
   fig1=LeerFigura(Nombre_figura1);
   //fig1->mostrar();
   fig1->PonerEnElEje();
-  cout<<"------------------------------------------------------------"<<endl;
-  cout<<"Figura 1"<<endl;
   fig1->mostrar();
 
   Figura *fig2;
-  //  char *Nombre_figura2 = "mitad1.jpg";
   char *Nombre_figura2 = "quad.jpg";
   fig2=LeerFigura(Nombre_figura2);
   //fig2->mostrar();
   fig2->PonerEnElEje();
-  cout<<"------------------------------------------------------------"<<endl;
-  cout<<"Figura 2"<<endl;
   fig2->mostrar();
 
-  Figura *fig3;
-  fig3 = Restar(fig1,fig2);
-  cout<<"------------------------------------------------------------"<<endl;
-  cout<<"Figura 3 = Figura 1 - Figura 2"<<endl;
-  fig3->mostrar();
+  /*   Test de la función EsFrontera
+  Posicion n(0,30), m(40, 40), u(10,0), l(127,70), p(127,100), r(17,96);
+  cout<<"n(0,30) si"<<endl;
+  if (fig2->EsFrontera(n)) cout<<"jijaju n"<<endl;
+  cout<<"m(40,40) no"<<endl;
+  if (fig2->EsFrontera(m)) cout<<"jijaju m"<<endl;
+  cout<<"u(10,0) si"<<endl;
+  if (fig2->EsFrontera(u)) cout<<"jijaju u"<<endl;
+  cout<<"l(127,70) si"<<endl;
+  if (fig2->EsFrontera(l)) cout<<"jijaju l"<<endl;
+  cout<<"p(127,100) no"<<endl;
+  if (fig2->EsFrontera(p)) cout<<"jijaju p"<<endl;
+  cout<<"r(17,96) si"<<endl;
+  if (fig2->EsFrontera(r)) cout<<"jijaju r"<<endl;
+  */
 
-  
+//  Figura *fig3;
+//  fig3=Restar(fig1,fig2);
 
-  cout<<endl<<"jijaju"<<endl;
+  cout<<"jijaju"<<endl;
   return 0;
 }
