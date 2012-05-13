@@ -47,6 +47,9 @@ struct Posicion{
   bool EstaIzq(Posicion p){
     return ((p.x < x) && (abs(p.y - y)<=5));
   }
+  bool EstaArr(Posicion p){
+    return (y - p.y >= 6);
+  }
 };
 
 
@@ -377,6 +380,7 @@ Figura* Restar (Figura *fig1, Figura *fig2){
   iguales = 1;
   i1n=fig1->tam-1;
   i2n=fig2->tam-1;
+
   while (iguales) {
     if (fig1->vertices[i1n].pos->EsIgual(*fig2->vertices[i2n].pos)){
       fig1->vertices[i1n].visitado=true;
@@ -405,8 +409,15 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     else iguales = 0;
   }
 
+  //Elegir el punto de fig2 más alto
+  for (int j=1; j<fig2->tam; j++){
+    if (!fig2->vertices[j].visitado)
+      if(fig2->vertices[i2].pos->EstaArr(*fig2->vertices[j].pos)){
+	i2=j;
+      }
+  }
 
-  //Primera linea de la figura2 hasta llegar al primer vertice no visitado
+  //Elegir el punto de fig2 más a la izquierda
   for (int j=1; j<fig2->tam; j++){
     if (!fig2->vertices[j].visitado)
       if(fig2->vertices[i2].pos->EstaIzq(*fig2->vertices[j].pos)){
@@ -453,10 +464,8 @@ Figura* Restar (Figura *fig1, Figura *fig2){
   int ant = Longitud(*fig_res->vertices[fig_res->tam-1].pos,*fig_res->vertices[0].pos);
   int sig;
 
-  cout << "antes for" << endl;
   for (int i = 0; i < fig_res->tam; i++){
-    sig=Longitud(*fig_res->vertices[i].pos,*fig_res->vertices[(i+1)%fig_res->tam].pos);
-    cout << "dins for sig= " << sig << " ant " << ant << endl;
+    sig=Longitud(*fig_res->vertices[i].pos,*fig_res->vertices[(i+1)%fig_res->tam].pos); 
     if( ant <= 0.4 * sig)
       fig_res->vertices[i].longitud=0;
     else if( ant <= 0.6 * sig)
@@ -473,16 +482,15 @@ Figura* Restar (Figura *fig1, Figura *fig2){
 
     ant=sig;
   }
-  cout << "despues for" << endl;
-
+ 
   return fig_res;
 }
 
 
 
 int main(){
-  //  char *Nombre_figura1 = "gran.jpg";
-  char *Nombre_figura1 = "quad2.jpg";
+  char *Nombre_figura1 = "gran.jpg";
+  //char *Nombre_figura1 = "quad2.jpg";
   Figura *fig1;
   fig1=LeerFigura(Nombre_figura1);
   //fig1->mostrar();
@@ -492,8 +500,8 @@ int main(){
   fig1->mostrar();
 
   Figura *fig2;
-  //  char *Nombre_figura2 = "mitad1.jpg";
-  char *Nombre_figura2 = "quad.jpg";
+  char *Nombre_figura2 = "mitad2.jpg";
+  //char *Nombre_figura2 = "quad.jpg";
   fig2=LeerFigura(Nombre_figura2);
   //fig2->mostrar();
   fig2->PonerEnElEje();
