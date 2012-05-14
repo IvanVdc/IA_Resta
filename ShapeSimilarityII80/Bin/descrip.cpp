@@ -274,7 +274,7 @@ struct Figura{
 	frontx = n->x + int((float(difx)/float(maxim))*j*minx);
 	fronty = n->y + int((float(dify)/float(maxim))*j*miny); 
 	//cout << "punto x " << frontx << " y " << fronty << endl;
-	if (p.x == frontx && p.y == fronty)
+	if (abs(p.x - frontx)<=5 && abs(p.y - fronty)<=5)
 	  return true;
       }
     }
@@ -407,6 +407,27 @@ Figura* Restar (Figura *fig1, Figura *fig2){
       i2++;
     }
     else iguales = 0;
+  }
+
+  
+  //Contar cuantos puntos de la figura 2 son frontera de la figura 1 y no estan visitados
+  vector <int> fronteras;
+  for (int j=0; j<fig2->tam; j++){
+    if (fig1->EsFrontera(*fig2->vertices[j].pos) && !fig2->vertices[j].visitado)
+      fronteras.push_back(j);
+  }
+
+  int fronts = fronteras.size();
+  //cout << "Fronteras "<<fronts<<endl; 
+
+  int c = 0;
+  while (fronts > 2){
+    for (int j= fronteras[c]; j<=fronteras[c+1]; j++){
+      fig2->vertices[j].visitado=true;
+    }
+    fronts=fronts-2;
+    c=c+2;
+    i2 = fronteras[c]; 
   }
 
   //Elegir el punto de fig2 más alto
