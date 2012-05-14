@@ -201,20 +201,29 @@ struct Figura{
 	cerr<<"Error longitud desconocida:"<<longitud<<endl;
       }
 
-
-
       Vertice ver(x, y, con, cu, lo, co);
       vertices.push_back(ver);
     }
 
-    if (abs(vertices[0].pos->y - vertices[tam-1].pos->y) <= UMBRAL){
-      vertices[0].pos->y=vertices[tam-1].pos->y;
+
+    int eje = 0;
+    int min = vertices[0].pos->y;
+    for (int i = 1; i< vertices.size(); i++){
+      if (abs(vertices[eje].pos->y - vertices[i].pos->y) <= UMBRAL
+	  && vertices[i].pos->x < vertices[eje].pos->x)
+	eje = i;
+    }
+    
+    Posicion peje (vertices[eje].pos->x, vertices[eje].pos->y);
+
+    while (!vertices[0].pos->EsIgual(peje)){
       Vertice aux (vertices[tam-1].pos->x, vertices[tam-1].pos->y, vertices[tam-1].conexion, vertices[tam-1].curvatura, vertices[tam-1].longitud, vertices[tam-1].convexidad);
       vertices.pop_back();
       vector<Vertice>::iterator it;
       it=vertices.begin();
       vertices.insert(it, aux);
     }
+
   }
 
   void mostrar(){
@@ -226,20 +235,18 @@ struct Figura{
     }
   }
 
-  void PonerEnElEje (){
+  void PonerEnElEjeParaRestar (){
     int x=vertices[0].pos->x, y=vertices[0].pos->y;
-    for (int i = 1; i<tam; i++){
-      if (vertices[i].pos->x < x) x = vertices[i].pos->x;
-      if (vertices[i].pos->y < y) y = vertices[i].pos->y;
-    }
 
     for (int j = 0; j<tam; j++){
       vertices[j].pos->x-=x;
       vertices[j].pos->y-=y;
     }
+    
     vertices[0].pos->x=0;
     vertices[0].pos->y=0; 
 
+    //Asignar coordenadas para que sean los mismos numeros que su vecino
     for (int i = 1; i<tam; i++){
       if (abs(vertices[i].pos->x - vertices[i-1].pos->x)<5)
 	vertices[i].pos->x = vertices[i-1].pos->x;
@@ -252,6 +259,21 @@ struct Figura{
     if (abs(vertices[tam-1].pos->y - vertices[0].pos->y)<5)
       vertices[tam-1].pos->y = vertices[0].pos->y;
   }
+
+  void PonerEnElEjeParaMostrar (){
+    int x=vertices[0].pos->x, y=vertices[0].pos->y;
+    
+    for (int i = 1; i<tam; i++){
+      if (vertices[i].pos->x < x) x = vertices[i].pos->x;
+      if (vertices[i].pos->y < y) y = vertices[i].pos->y;
+    }
+    
+    for (int j = 0; j<tam; j++){
+      vertices[j].pos->x-=x;
+      vertices[j].pos->y-=y;
+    }
+  }
+
 
   void NadaVisitado (){
     for (int i = 0; i<tam; i++)
@@ -510,22 +532,24 @@ Figura* Restar (Figura *fig1, Figura *fig2){
 
 
 int main(){
-  char *Nombre_figura1 = "gran.jpg";
   //char *Nombre_figura1 = "quad2.jpg";
+  //char *Nombre_figura1 = "gran.jpg";
+  char *Nombre_figura1 = "quad_mini_gran.jpg";
   Figura *fig1;
   fig1=LeerFigura(Nombre_figura1);
   //fig1->mostrar();
-  fig1->PonerEnElEje();
+  fig1->PonerEnElEjeParaRestar();
   cout<<"------------------------------------------------------------"<<endl;
   cout<<"Figura 1"<<endl;
   fig1->mostrar();
 
   Figura *fig2;
-  char *Nombre_figura2 = "mitad2.jpg";
+  //char *Nombre_figura2 = "mitad2.jpg";
+  char *Nombre_figura2 = "quad_mini_lledo.jpg";
   //char *Nombre_figura2 = "quad.jpg";
   fig2=LeerFigura(Nombre_figura2);
   //fig2->mostrar();
-  fig2->PonerEnElEje();
+  fig2->PonerEnElEjeParaRestar();
   cout<<"------------------------------------------------------------"<<endl;
   cout<<"Figura 2"<<endl;
   fig2->mostrar();
@@ -536,7 +560,25 @@ int main(){
   cout<<"Figura 3 = Figura 1 - Figura 2"<<endl;
   fig3->mostrar();
 
+
+  /*
+  cout<<"Figura 3 en el eje para restar"<<endl;
+  fig3->PonerEnElEjeParaRestar();
+  fig3->mostrar();
+
   
+  Figura *fig4;
+  fig4 = Restar(fig3,fig2);
+  cout<<"------------------------------------------------------------"<<endl;
+  cout<<"Figura 4 = Figura 3 - Figura 2"<<endl;
+  fig4->PonerEnElEjeParaMostrar();
+  fig4->mostrar();
+  
+
+  cout<<"Figura 3 en el eje para mostrar"<<endl;
+  fig3->PonerEnElEjeParaMostrar();
+  fig3->mostrar();
+  */
 
   cout<<endl<<"jijaju"<<endl;
   return 0;
