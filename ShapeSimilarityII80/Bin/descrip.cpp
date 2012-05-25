@@ -15,7 +15,9 @@
 
 using namespace std;
 
-int mat_curbatura [5][5] = {{-1, 0, 1, 6, 7},
+int mat_curvatura_front [5] = {4,3,2,1,0};
+
+int mat_curvatura [5][5] = {{-1, 0, 1, 6, 7},
 			    {0, -1, 0, 1, 6},
 			    {1, 0, -1, 1, 1},
 			    {6, 1, 1, -1, 8},
@@ -405,14 +407,21 @@ Figura* Restar (Figura *fig1, Figura *fig2){
 
   while (iguales) {
     if (fig1->vertices[i1n].pos->EsIgual(*fig2->vertices[i2n].pos)){
-      fig1->vertices[i1n].visitado=true;
-      fig2->vertices[i2n].visitado=true;
-      i1n--;
-      i2n--;
-      if (i1n == -1){
-	Figura *fig_res;
-	fig_res = new Figura(vertices);
-	return fig_res;
+      if (fig1->vertices[i1n].curvatura > fig2->vertices[i2n].curvatura){
+	fig1->vertices[i1n].visitado=true;
+	i1n--;
+      }
+
+      else{
+	fig1->vertices[i1n].visitado=true;
+	fig2->vertices[i2n].visitado=true;
+	i1n--;
+	i2n--;
+	if (i1n == -1){
+	  Figura *fig_res;
+	  fig_res = new Figura(vertices);
+	  return fig_res;
+	}
       }
     }
     else iguales = 0;
@@ -423,10 +432,16 @@ Figura* Restar (Figura *fig1, Figura *fig2){
   i2=1;
   while (iguales) {
     if (fig1->vertices[i1].pos->EsIgual(*fig2->vertices[i2].pos)){
-      fig1->vertices[i1].visitado=true;
-      fig2->vertices[i2].visitado=true;
-      i1++;
-      i2++;
+      if (fig1->vertices[i1].curvatura > fig2->vertices[i2].curvatura){
+	fig1->vertices[i1].visitado=true;
+	i1n++;
+      }
+      else{
+	fig1->vertices[i1].visitado=true;
+	fig2->vertices[i2].visitado=true;
+	i1++;
+	i2++;
+      }
     }
     else iguales = 0;
   }
@@ -473,7 +488,16 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     x2=fig2->vertices[i2].pos->x;
     y2=fig2->vertices[i2].pos->y;
     fig2->vertices[i2].visitado=true;
-    Vertice ver(x2, y2, 1, -1, -1, -1);
+
+      Vertice ver(x2, y2, fig2->vertices[i2].conexion, mat_curvatura_front[fig2->vertices[i2].curvatura], fig2->vertices[i2].longitud, fig2->vertices[i2].convexidad);
+
+    //Cálculo de la curvatura
+    if (fig1->EsFrontera(*fig2->vertices[i2].pos))
+      ver.curvatura = mat_curvatura_front[fig2->vertices[i2].curvatura];
+
+    else
+      ver.convexidad = (ver.convexidad + 1)%2;
+
     vertices.push_back(ver);
     i2--;
   }
@@ -483,7 +507,7 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     x1=fig1->vertices[i1].pos->x;
     y1=fig1->vertices[i1].pos->y;
     fig1->vertices[i1].visitado=true;
-    Vertice ver(x1, y1, 1, -1, -1, -1);
+    Vertice ver(x1, y1, fig1->vertices[i1].conexion, fig1->vertices[i1].curvatura, fig1->vertices[i1].longitud, fig1->vertices[i1].convexidad);
     vertices.push_back(ver);
     i1++;
   }
@@ -493,7 +517,16 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     x2=fig2->vertices[i2n].pos->x;
     y2=fig2->vertices[i2n].pos->y;
     fig2->vertices[i2n].visitado=true;
-    Vertice ver(x2, y2, 1, -1, -1, -1);
+
+    Vertice ver(x2, y2, fig2->vertices[i2].conexion, mat_curvatura_front[fig2->vertices[i2].curvatura], fig2->vertices[i2].longitud, fig2->vertices[i2].convexidad);
+
+    //Cálculo de la curvatura
+    if (fig1->EsFrontera(*fig2->vertices[i2].pos))
+      ver.curvatura = mat_curvatura_front[fig2->vertices[i2].curvatura];
+
+    else
+      ver.convexidad = (ver.convexidad + 1)%2;
+
     vertices.push_back(ver);
     i2n--;
   }
@@ -508,6 +541,7 @@ Figura* Restar (Figura *fig1, Figura *fig2){
   int sig;
 
   for (int i = 0; i < fig_res->tam; i++){
+    //Cálculo de las longitudes
     sig=Longitud(*fig_res->vertices[i].pos,*fig_res->vertices[(i+1)%fig_res->tam].pos); 
     if( ant <= 0.4 * sig)
       fig_res->vertices[i].longitud=0;
@@ -522,8 +556,8 @@ Figura* Restar (Figura *fig1, Figura *fig2){
     else if( ant <= 2.1 * sig)
       fig_res->vertices[i].longitud=5;
     else fig_res->vertices[i].longitud=6;
-
     ant=sig;
+      
   }
  
   return fig_res;
@@ -534,7 +568,7 @@ Figura* Restar (Figura *fig1, Figura *fig2){
 int main(){
   //char *Nombre_figura1 = "quad2.jpg";
   //char *Nombre_figura1 = "gran.jpg";
-  char *Nombre_figura1 = "quad_mini_gran.jpg";
+  char *Nombre_figura1 = "quad_gran.jpg";
   Figura *fig1;
   fig1=LeerFigura(Nombre_figura1);
   //fig1->mostrar();
@@ -545,7 +579,7 @@ int main(){
 
   Figura *fig2;
   //char *Nombre_figura2 = "mitad2.jpg";
-  char *Nombre_figura2 = "quad_mini_lledo.jpg";
+  char *Nombre_figura2 = "quad_mitad1.jpg";
   //char *Nombre_figura2 = "quad.jpg";
   fig2=LeerFigura(Nombre_figura2);
   //fig2->mostrar();
