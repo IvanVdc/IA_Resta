@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.19)  24 MAY 2012 13:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.19)  28 MAY 2012 01:25
 entering extended mode
  %&-line parsing enabled.
 **memIA.tex
@@ -289,7 +289,11 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 ))
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
-) (./memIA.aux)
+) (./memIA.aux
+
+LaTeX Warning: Label `fig:quad_punta' multiply defined.
+
+)
 \openout1 = `memIA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -305,8 +309,7 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
-
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Info: Redefining \l on input line 51.
@@ -406,9 +409,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--90
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 80--90
-\OT1/ptm/m/n/10 Les ca-rac-ter[]^^Pstiques que de-ter-mi-nen ca-da ver-tex s[]o
-n el
+Underfull \hbox (badness 1527) in paragraph at lines 80--90
+\OT1/ptm/m/n/10 Les ca-rac-ter[]^^Pstiques que de-ter-mi-nen ca-da v[]ertex s[]
+on el
  []
 
 
@@ -473,45 +476,701 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 130.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--164
+Underfull \hbox (badness 10000) in paragraph at lines 161--165
 
  []
 
-[2 <./images/angles.png (PNG copy)> <./images/convex.jpeg>]
-No file memIA.bbl.
-[3
 
-] (./memIA.aux)
+Underfull \hbox (badness 1917) in paragraph at lines 161--165
+\OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
+ []
+
+<images/quad_gran.jpg, id=10, 642.4pt x 401.5pt>
+File: images/quad_gran.jpg Graphic file (type jpg)
+ <use images/quad_gran.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 168--169
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--192
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 174--192
+\OT1/ptm/m/n/10 El mi-nu-end sem-pre deu ser ma-jor que el subs-tra-hend,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--192
+
+ []
+
+[2 <./images/angles.png (PNG copy)> <./images/convex.jpeg> <./images/quad_gran.
+jpg>] <images/taula1.jpeg, id=16, 599.99156pt x 121.95563pt>
+File: images/taula1.jpeg Graphic file (type jpg)
+
+<use images/taula1.jpeg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 215--216
+ [][] 
+ []
+
+<images/taula2.jpeg, id=17, 147.55125pt x 206.27063pt>
+File: images/taula2.jpeg Graphic file (type jpg)
+
+<use images/taula2.jpeg> <images/taula3.png, id=18, 325.215pt x 188.705pt>
+File: images/taula3.png Graphic file (type png)
+
+<use images/taula3.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--252
+
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 253--258
+\OT1/ptm/m/n/10 En cas que des-a-pa-re-ga un v[]ertex per res-tar dos an-gles
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 253--258
+\OT1/ptm/m/n/10 de les del sus-tra-hend. Una vol-ta cal-cu-la-des les no-ves
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
+
+ []
+
+[3 <./images/taula1.jpeg> <./images/taula2.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 259--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--263
+
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 264--280
+\OT1/ptm/m/n/10 in-te-grants de la no-va fi-gu-ra. Per[]o mitjan[]ant di-ver-se
+s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--280
+
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 264--280
+\OT1/ptm/m/n/10 Abans de tre-ba-llar amb els ver-texs s'-han d'i-gua-lar les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--280
+
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 264--280
+\OT1/ptm/m/n/10 El proc[]es con-sis-teix en des-car-tar els punts coin-ci-dents
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--292
+
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 281--292
+\OT1/ptm/m/n/10 Tots els punts que han coin-ci-dit en les dos fi-gu-res es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--301
+
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 293--301
+\OT1/ptm/m/n/10 Es re-a-lit-zen di-ver-ses com-pro-va-ci-ons per a es-tar se-gu
+rs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--324
+
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 315--324
+\OT1/ptm/m/n/10 Per a re-a-lit-zar aques-ta ges-ti[]o es con-ten el nom-bre de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--324
+
+ []
+
+[4 <./images/taula3.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 325--333
+
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 325--333
+\OT1/ptm/m/n/10 Finalment hi ha un bot[]o que ser-veix per a cal-cu-lar la
+ []
+
+<images/iufinal_p.png, id=25, 408.52625pt x 330.23375pt>
+File: images/iufinal_p.png Graphic file (type png)
+
+<use images/iufinal_p.png>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 336--337
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--353
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 354.
+File: images/quad_gran.jpg Graphic file (type jpg)
+<use images/quad_gran.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 357--358
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 362--367
+\OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--367
+
+ []
+
+<images/quad_menut.jpg, id=26, 642.4pt x 401.5pt>
+File: images/quad_menut.jpg Graphic file (type jpg)
+ <use images/quad_menut.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 371--372
+ [][] 
+ []
+
+<images/res1.jpg, id=27, 550.055pt x 504.88625pt>
+File: images/res1.jpg Graphic file (type jpg)
+ <use images/res1.jpg>
+Underfull \hbox (badness 1917) in paragraph at lines 376--388
+\OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--388
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--392
+\OT1/ptm/m/it/10 shorter,convex], [line-line,right,similar-length,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--392
+\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], line-line,right,half-
+ []
+
+[5 <./images/iufinal_p.png (PNG copy)> <./images/quad_menut.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 394--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--399
+
+ []
+
+File: images/quad_gran.jpg Graphic file (type jpg)
+<use images/quad_gran.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 403--404
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 408--413
+\OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--413
+
+ []
+
+<images/quad_escala.jpg, id=31, 642.4pt x 401.5pt>
+File: images/quad_escala.jpg Graphic file (type jpg)
+
+<use images/quad_escala.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 417--418
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/res2.jpg, id=32, 642.4pt x 401.5pt>
+File: images/res2.jpg Graphic file (type jpg)
+ <use images/res2.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 430--431
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--434
+\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], [line-line,right,a-bit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--434
+\OT1/ptm/m/it/10 longer,convex], [line-line,obtuse,similar-length,concave],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--434
+\OT1/ptm/m/it/10 [line-line,obtuse,similar-length,convex], [line-
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 422--434
+\OT1/ptm/m/it/10 line,obtuse,similar-length,concave], [line-line,right,similar-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--434
+\OT1/ptm/m/it/10 length,convex], [line-line,right,much-shorter,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 [line-line,obtuse,a-bit-longer,concave], [line-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 line,obtuse,a-bit-longer,convex], [line-line,obtuse,similar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 length,concave], [line-line,obtuse,a-bit-shorter,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 [line-line,obtuse,similar-length,concave], [line-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 line,obtuse,similar-length,convex], [line-line,obtuse,a-
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 bit-longer,concave], [line-line,right,much-shorter,concave],
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 435--438
+\OT1/ptm/m/it/10 [line-line,right,a-bit-longer,concave], [line-line,right,much-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--446
+
+ []
+
+File: images/quad_gran.jpg Graphic file (type jpg)
+<use images/quad_gran.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 450--451
+ [][] 
+ []
+
+[6 <./images/res1.jpg> <./images/quad_escala.jpg> <./images/res2.jpg>]
+Underfull \hbox (badness 2142) in paragraph at lines 455--460
+\OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--460
+
+ []
+
+<images/quad_punta.jpg, id=36, 642.4pt x 401.5pt>
+File: images/quad_punta.jpg Graphic file (type jpg)
+ <use images/quad_punta.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 464--465
+ [][] 
+ []
+
+<images/res3.jpg, id=37, 642.4pt x 401.5pt>
+File: images/res3.jpg Graphic file (type jpg)
+ <use images/res3.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 477--478
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--481
+\OT1/ptm/m/it/10 length,convex], [line-line,obtuse,a-bit-longer,concave],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--481
+\OT1/ptm/m/it/10 [line-line,right,similar-length,convex], [line-line,obtuse,a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--481
+\OT1/ptm/m/it/10 bit-longer,convex], [line-line,obtuse,half-length,concave],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--481
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--485
+\OT1/ptm/m/it/10 [line-line,obtuse,similar-length,convex], [line-line,right,a-
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 482--485
+\OT1/ptm/m/it/10 [line-line,right,similar-length,convex], [line-line,right,half
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--485
+\OT1/ptm/m/it/10 length,convex], [line-line,right,a-bit-shorter,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--485
+\OT1/ptm/m/it/10 [line-line,right,a-bit-longer,convex], [line-line,right,much-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--493
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--493
+
+ []
+
+<images/quad_gran_restat.jpg, id=38, 642.4pt x 401.5pt>
+File: images/quad_gran_restat.jpg Graphic file (type jpg)
+
+<use images/quad_gran_restat.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 497--498
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
+\OT1/ptm/m/it/10 [line-line,right,a-bit-shorter,concave], [line-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
+\OT1/ptm/m/it/10 line,obtuse,similar-length,convex], [line-line,right,similar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
+\OT1/ptm/m/it/10 length,concave], [line-line,right,much-shorter,concave],
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 502--507
+\OT1/ptm/m/it/10 [line-line,right,a-bit-shorter,concave], [line-line,right,a-bi
+t-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--507
+
+ []
+
+File: images/quad_menut.jpg Graphic file (type jpg)
+<use images/quad_menut.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 511--512
+ [][] 
+ []
+
+[7 <./images/quad_punta.jpg> <./images/res3.jpg> <./images/quad_gran_restat.jpg
+>] <images/res4.jpg, id=43, 642.4pt x 401.5pt>
+File: images/res4.jpg Graphic file (type jpg)
+ <use images/res4.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 524--525
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 516--528
+\OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--528
+
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 529--534
+\OT1/ptm/m/it/10 [line-line,right,much-shorter,convex], [line-line,right,a-bit-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+\OT1/ptm/m/it/10 line,right,similar-length,convex], [line-line,obtuse,much-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+\OT1/ptm/m/it/10 longer,concave], [line-line,obtuse,much-shorter,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+\OT1/ptm/m/it/10 [line-line,obtuse,a-bit-shorter,concave], [line-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--547
+
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 536--547
+\OT1/ptm/m/n/10 Per []ultim la in-te-gra-ci[]o de fi-gu-res en cur-ves []es un 
+pas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--559
+
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 549--559
+\OT1/ptm/m/n/10 -[Zoe11] Zoe Fa-lo-mir Llan-so-la. Qua-li-ta-ti-ve Dis-tan-ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--559
+
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 549--559
+\OT1/ptm/m/n/10 -[Mus09] C4R2 No Ins-ti-tu-te Gi-ven In-for-me tec-ni-co.
+ []
+
+[8 <./images/res4.jpg>] (./memIA.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 1598 strings out of 494999
- 18906 string characters out of 1180816
- 80805 words of memory out of 3000000
- 4783 multiletter control sequences out of 15000+50000
- 17379 words of font info for 38 fonts, out of 3000000 for 9000
+ 1681 strings out of 494999
+ 20527 string characters out of 1180816
+ 83981 words of memory out of 3000000
+ 4852 multiletter control sequences out of 15000+50000
+ 19005 words of font info for 40 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 25i,13n,24p,387b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,13n,24p,444b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on memIA.pdf (3 pages, 79222 bytes).
+Output written on memIA.pdf (8 pages, 233905 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
