@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.19)  28 MAY 2012 01:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.19)  6 JUN 2012 18:02
 entering extended mode
  %&-line parsing enabled.
 **memIA.tex
@@ -296,24 +296,24 @@ LaTeX Warning: Label `fig:quad_punta' multiply defined.
 )
 \openout1 = `memIA.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 52.
  (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Info: Redefining \l on input line 51.
-LaTeX Info: Redefining \L on input line 51.
+LaTeX Info: Redefining \l on input line 52.
+LaTeX Info: Redefining \L on input line 52.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -329,210 +329,208 @@ LaTeX Info: Redefining \L on input line 51.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 53.
+(Font)              <12> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
+(Font)              <8> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
+(Font)              <6> on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 54.
  (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
-
- []
-
-
-Underfull \hbox (badness 2409) in paragraph at lines 61--74
-\OT1/ptm/m/n/10 La in-tel\OMS/cmsy/m/n/10 ^^A\OT1/ptm/m/n/10 lig[]encia ar-ti-f
-i-ci-al []es con-si-de-ra-da una ra-ma de
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 61--74
-\OT1/ptm/m/n/10 la com-pu-ta-ci[]o i re-la-ci-o-na un fe-no-men na-tu-ral amb u
-na
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
+Underfull \hbox (badness 10000) in paragraph at lines 62--83
 
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 61--74
+Underfull \hbox (badness 2818) in paragraph at lines 62--83
 \OT1/ptm/m/n/10 rac-ter[]^^Pstiques qua-li-ta-ti-ves per a de-fi-nir la no-va f
 i-gu-ra.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
+Underfull \hbox (badness 10000) in paragraph at lines 62--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--74
-
- []
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 74.
-
-LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
-(Font)              using `OMS/ptm/m/n' instead
-(Font)              for symbol `textperiodcentered' on input line 74.
-
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
-
-Underfull \hbox (badness 1122) in paragraph at lines 75--79
-\OT1/ptm/m/n/10 per-ta-nyen al camp del ra-o-na-ment qua-li-ta-tiu, dins de la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+Underfull \hbox (badness 10000) in paragraph at lines 62--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+Underfull \hbox (badness 2401) in paragraph at lines 62--83
+\OT1/ptm/m/n/10 Espec[]^^Pficament, el tre-ball que s'-ha desen-vo-lu-pat trac-
+ta
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 62--83
+\OT1/ptm/m/n/10 so-bre l'ob-ten-ci[]o d'i-mat-ges, an[]alisis de les se-ves ca-
+rac-
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 62--83
+\OT1/ptm/m/n/10 que l'an[]alisi i els seus re-sul-tats per-ta-nyen al camp del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--83
 
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 80--90
+Underfull \hbox (badness 2828) in paragraph at lines 62--83
+\OT1/ptm/m/n/10 l'-ha-bi-li-tat in-na-ta dels []essers hu-mans per ra-o-nar sen
+-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--96
+
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 85--96
 \OT1/ptm/m/n/10 Les ca-rac-ter[]^^Pstiques que de-ter-mi-nen ca-da v[]ertex s[]
 on el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--90
+Underfull \hbox (badness 10000) in paragraph at lines 85--96
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 96.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--98
+Underfull \hbox (badness 10000) in paragraph at lines 97--104
 
  []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--98
-
- []
-
-<images/angles.png, id=1, 335.2525pt x 92.345pt>
-File: images/angles.png Graphic file (type png)
- <use images/angles.png>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 101--102
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 ]
+<images/angles.png, id=8, 335.2525pt x 92.345pt>
+File: images/angles.png Graphic file (type png)
+ <use images/angles.png>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 107--108
+ [][] 
+ []
+
 <images/convex.jpeg, id=9, 231.11343pt x 109.91063pt>
 File: images/convex.jpeg Graphic file (type jpg)
  <use images/convex.jpeg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 113--114
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 119--120
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--129
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--129
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--129
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
 
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 119--129
+Underfull \hbox (badness 1888) in paragraph at lines 125--135
 \OT1/ptm/m/n/10 Comparant aques-tes dos da-des ob-te-nim el va-lor de la
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 130.
+(Font)              <7> on input line 136.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 130.
+(Font)              <5> on input line 136.
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--144
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--165
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 161--165
+Underfull \hbox (badness 10000) in paragraph at lines 167--171
+
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 167--171
 \OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
  []
 
-<images/quad_gran.jpg, id=10, 642.4pt x 401.5pt>
+<images/quad_gran.jpg, id=10, 284.06125pt x 240.9pt>
 File: images/quad_gran.jpg Graphic file (type jpg)
- <use images/quad_gran.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 168--169
+
+<use images/quad_gran.jpg>
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 174--175
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--192
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--198
 
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 174--192
-\OT1/ptm/m/n/10 El mi-nu-end sem-pre deu ser ma-jor que el subs-tra-hend,
+Underfull \hbox (badness 2205) in paragraph at lines 180--198
+\OT1/ptm/m/n/10 El mi-nu-end sem-pre deu ser ma-jor que el sub-tra-hend,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--192
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--192
+Underfull \hbox (badness 10000) in paragraph at lines 180--198
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--192
+Underfull \hbox (badness 10000) in paragraph at lines 180--198
 
  []
 
-[2 <./images/angles.png (PNG copy)> <./images/convex.jpeg> <./images/quad_gran.
-jpg>] <images/taula1.jpeg, id=16, 599.99156pt x 121.95563pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--198
+
+ []
+
+[2 <./images/angles.png (PNG copy)> <./images/convex.jpeg>]
+Underfull \vbox (badness 5260) has occurred while \output is active []
+
+
+<images/taula1.jpeg, id=16, 599.99156pt x 121.95563pt>
 File: images/taula1.jpeg Graphic file (type jpg)
 
 <use images/taula1.jpeg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 215--216
+Overfull \hbox (16.08875pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
@@ -547,170 +545,159 @@ File: images/taula3.png Graphic file (type png)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--252
+Underfull \hbox (badness 10000) in paragraph at lines 254--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--252
+Underfull \hbox (badness 10000) in paragraph at lines 254--259
 
  []
 
-
-Underfull \hbox (badness 1052) in paragraph at lines 253--258
+[3 <./images/quad_gran.jpg> <./images/taula1.jpeg> <./images/taula2.jpeg>]
+Underfull \hbox (badness 1052) in paragraph at lines 260--265
 \OT1/ptm/m/n/10 En cas que des-a-pa-re-ga un v[]ertex per res-tar dos an-gles
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 253--258
-\OT1/ptm/m/n/10 de les del sus-tra-hend. Una vol-ta cal-cu-la-des les no-ves
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--258
+Underfull \hbox (badness 10000) in paragraph at lines 260--265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--258
-
- []
-
-[3 <./images/taula1.jpeg> <./images/taula2.jpeg>]
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+Underfull \hbox (badness 10000) in paragraph at lines 260--265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
 
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 264--280
-\OT1/ptm/m/n/10 in-te-grants de la no-va fi-gu-ra. Per[]o mitjan[]ant di-ver-se
-s
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--280
+Underfull \hbox (badness 10000) in paragraph at lines 266--270
 
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 264--280
-\OT1/ptm/m/n/10 Abans de tre-ba-llar amb els ver-texs s'-han d'i-gua-lar les
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--280
+Underfull \hbox (badness 10000) in paragraph at lines 271--288
 
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 264--280
+Underfull \hbox (badness 1509) in paragraph at lines 271--288
+\OT1/ptm/m/n/10 Abans de tre-ba-llar amb els v[]ertexs s'-han d'i-gua-lar les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--288
+
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 271--288
 \OT1/ptm/m/n/10 El proc[]es con-sis-teix en des-car-tar els punts coin-ci-dents
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--280
+Underfull \hbox (badness 10000) in paragraph at lines 271--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--280
+Underfull \hbox (badness 10000) in paragraph at lines 271--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--292
+Underfull \hbox (badness 10000) in paragraph at lines 289--300
 
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 281--292
+Underfull \hbox (badness 1297) in paragraph at lines 289--300
 \OT1/ptm/m/n/10 Tots els punts que han coin-ci-dit en les dos fi-gu-res es
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--292
+Underfull \hbox (badness 10000) in paragraph at lines 289--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--292
+Underfull \hbox (badness 10000) in paragraph at lines 289--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--301
+Underfull \hbox (badness 10000) in paragraph at lines 301--309
 
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 293--301
+Underfull \hbox (badness 1776) in paragraph at lines 301--309
 \OT1/ptm/m/n/10 Es re-a-lit-zen di-ver-ses com-pro-va-ci-ons per a es-tar se-gu
 rs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--301
+Underfull \hbox (badness 10000) in paragraph at lines 301--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--301
+Underfull \hbox (badness 10000) in paragraph at lines 301--309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--307
+Underfull \hbox (badness 10000) in paragraph at lines 310--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--307
+Underfull \hbox (badness 10000) in paragraph at lines 310--315
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--314
+Underfull \hbox (badness 10000) in paragraph at lines 316--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--314
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--324
-
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 315--324
-\OT1/ptm/m/n/10 Per a re-a-lit-zar aques-ta ges-ti[]o es con-ten el nom-bre de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--324
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--324
+Underfull \hbox (badness 10000) in paragraph at lines 316--322
 
  []
 
 [4 <./images/taula3.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 325--333
+Underfull \hbox (badness 10000) in paragraph at lines 323--332
 
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 325--333
+Underfull \hbox (badness 1708) in paragraph at lines 323--332
+\OT1/ptm/m/n/10 Per a re-a-lit-zar aques-ta ges-ti[]o es con-ten el nom-bre de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--341
+
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 333--341
 \OT1/ptm/m/n/10 Finalment hi ha un bot[]o que ser-veix per a cal-cu-lar la
  []
 
@@ -718,457 +705,443 @@ Underfull \hbox (badness 1173) in paragraph at lines 325--333
 File: images/iufinal_p.png Graphic file (type png)
 
 <use images/iufinal_p.png>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 336--337
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--346
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--346
+Underfull \hbox (badness 10000) in paragraph at lines 350--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--353
+Underfull \hbox (badness 10000) in paragraph at lines 355--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--353
+Underfull \hbox (badness 10000) in paragraph at lines 355--360
 
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 354.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 361.
 File: images/quad_gran.jpg Graphic file (type jpg)
 <use images/quad_gran.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 357--358
- [][] 
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 362--367
+Underfull \hbox (badness 2142) in paragraph at lines 369--374
 \OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--367
+Underfull \hbox (badness 10000) in paragraph at lines 369--374
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--367
+Underfull \hbox (badness 10000) in paragraph at lines 369--374
 
  []
 
-<images/quad_menut.jpg, id=26, 642.4pt x 401.5pt>
+<images/quad_menut.jpg, id=26, 256.96pt x 183.68625pt>
 File: images/quad_menut.jpg Graphic file (type jpg)
- <use images/quad_menut.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 371--372
- [][] 
- []
 
-<images/res1.jpg, id=27, 550.055pt x 504.88625pt>
+<use images/quad_menut.jpg> <images/res1.jpg, id=27, 550.055pt x 504.88625pt>
 File: images/res1.jpg Graphic file (type jpg)
- <use images/res1.jpg>
-Underfull \hbox (badness 1917) in paragraph at lines 376--388
+
+<use images/res1.jpg>
+Underfull \hbox (badness 1917) in paragraph at lines 383--395
 \OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--388
+Underfull \hbox (badness 10000) in paragraph at lines 383--395
 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--392
-\OT1/ptm/m/it/10 shorter,convex], [line-line,right,similar-length,convex],
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+[]\OT1/ptm/m/it/10 [line-line,right,double-length,convex], [line-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--392
-\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], line-line,right,half-
- []
-
-[5 <./images/iufinal_p.png (PNG copy)> <./images/quad_menut.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 394--399
-
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+\OT1/ptm/m/it/10 line,right,much-shorter,convex], [line-line,right,similar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--399
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+\OT1/ptm/m/it/10 length,convex], [line-line,right,much-longer,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+\OT1/ptm/m/it/10 line-line,right,half-length,convex], [line-line,right,a-bit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
 
  []
 
+
+Underfull \hbox (badness 2351) in paragraph at lines 396--404
+\OT1/ptm/m/n/10 El se-gon exem-ple con-sis-teix en la res-ta d'un qua-drat
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 396--404
+\OT1/ptm/m/n/10 menys una fi-gu-ra ir-re-gu-lar en for-ma d'es-ca-la. Aquest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--404
+
+ []
+
+[5 <./images/iufinal_p.png (PNG copy)> <./images/quad_menut.jpg> <./images/res1
+.jpg>]
 File: images/quad_gran.jpg Graphic file (type jpg)
-<use images/quad_gran.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 403--404
- [][] 
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 408--413
+ <use images/quad_gran.jpg>
+Underfull \hbox (badness 2142) in paragraph at lines 413--418
 \OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--413
+Underfull \hbox (badness 10000) in paragraph at lines 413--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--413
+Underfull \hbox (badness 10000) in paragraph at lines 413--418
 
  []
 
-<images/quad_escala.jpg, id=31, 642.4pt x 401.5pt>
+<images/quad_escala.jpg, id=31, 209.78375pt x 202.7575pt>
 File: images/quad_escala.jpg Graphic file (type jpg)
 
 <use images/quad_escala.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 417--418
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/res2.jpg, id=32, 642.4pt x 401.5pt>
+<images/res2.jpg, id=32, 279.0425pt x 231.86626pt>
 File: images/res2.jpg Graphic file (type jpg)
  <use images/res2.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 430--431
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 422--434
-\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], [line-line,right,a-bit-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 422--434
-\OT1/ptm/m/it/10 longer,convex], [line-line,obtuse,similar-length,concave],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 422--434
-\OT1/ptm/m/it/10 [line-line,obtuse,similar-length,convex], [line-
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 422--434
-\OT1/ptm/m/it/10 line,obtuse,similar-length,concave], [line-line,right,similar-
+Underfull \hbox (badness 10000) in paragraph at lines 427--439
+\OT1/ptm/m/it/10 [line-line,right,similar-length,convex],[line-line,right,much-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--434
-\OT1/ptm/m/it/10 length,convex], [line-line,right,much-shorter,convex],
+Underfull \hbox (badness 10000) in paragraph at lines 427--439
+\OT1/ptm/m/it/10 longer,convex], [line-line,right,a-bit-longer,convex],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--434
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 [line-line,obtuse,a-bit-longer,concave], [line-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 line,obtuse,a-bit-longer,convex], [line-line,obtuse,similar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 length,concave], [line-line,obtuse,a-bit-shorter,convex],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
+Underfull \hbox (badness 10000) in paragraph at lines 427--439
 \OT1/ptm/m/it/10 [line-line,obtuse,similar-length,concave], [line-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 line,obtuse,similar-length,convex], [line-line,obtuse,a-
+Underfull \hbox (badness 10000) in paragraph at lines 427--439
+\OT1/ptm/m/it/10 length,concave], [line-line,right,similar-length,convex],
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 bit-longer,concave], [line-line,right,much-shorter,concave],
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 435--438
-\OT1/ptm/m/it/10 [line-line,right,a-bit-longer,concave], [line-line,right,much-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 441--446
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 441--446
-
- []
-
-File: images/quad_gran.jpg Graphic file (type jpg)
-<use images/quad_gran.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 450--451
- [][] 
- []
-
-[6 <./images/res1.jpg> <./images/quad_escala.jpg> <./images/res2.jpg>]
-Underfull \hbox (badness 2142) in paragraph at lines 455--460
-\OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 455--460
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 455--460
-
- []
-
-<images/quad_punta.jpg, id=36, 642.4pt x 401.5pt>
-File: images/quad_punta.jpg Graphic file (type jpg)
- <use images/quad_punta.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 464--465
- [][] 
- []
-
-<images/res3.jpg, id=37, 642.4pt x 401.5pt>
-File: images/res3.jpg Graphic file (type jpg)
- <use images/res3.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 477--478
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--481
-\OT1/ptm/m/it/10 length,convex], [line-line,obtuse,a-bit-longer,concave],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--481
-\OT1/ptm/m/it/10 [line-line,right,similar-length,convex], [line-line,obtuse,a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--481
-\OT1/ptm/m/it/10 bit-longer,convex], [line-line,obtuse,half-length,concave],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--481
+Underfull \hbox (badness 10000) in paragraph at lines 427--439
 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--485
-\OT1/ptm/m/it/10 [line-line,obtuse,similar-length,convex], [line-line,right,a-
+File: images/quad_gran.jpg Graphic file (type jpg)
+<use images/quad_gran.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+\OT1/ptm/m/it/10 [line-line,right,a-bit-longer,convex], [line-line,right,much-
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 482--485
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+\OT1/ptm/m/it/10 shorter,convex], [line-line,right,a-bit-longer,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], [line-line,right,a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+\OT1/ptm/m/it/10 bit-longer,convex], [line-line,obtuse,a-bit-longer,concave],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+\OT1/ptm/m/it/10 [line-line,right,similar-length,convex], [line-line,obtuse,a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 440--458
+\OT1/ptm/m/n/10 El ter-cer exem-ple con-sis-teix en la res-ta d'un qua-drat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--458
+
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 459--464
+\OT1/ptm/m/it/10 similar-length, con-vex], [line-line, right, similar-length,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--464
+
+ []
+
+<images/quad_punta.jpg, id=33, 287.0725pt x 198.7425pt>
+File: images/quad_punta.jpg Graphic file (type jpg)
+
+<use images/quad_punta.jpg> <images/res3.jpg, id=34, 275.0275pt x 206.7725pt>
+File: images/res3.jpg Graphic file (type jpg)
+
+<use images/res3.jpg>
+Underfull \hbox (badness 1635) in paragraph at lines 473--485
+\OT1/ptm/m/it/10 [line-line,right,much-shorter,convex], [line-line,right,much-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--485
+\OT1/ptm/m/it/10 line,obtuse,a-bit-longer,concave], [line-line,right,similar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--485
+\OT1/ptm/m/it/10 line,obtuse,half-length,concave], [line-line,right,similar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--485
+
+ []
+
+[6 <./images/quad_escala.jpg> <./images/res2.jpg> <./images/quad_punta.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
+\OT1/ptm/m/it/10 [line-line,right,much-longer,convex], [line-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
+\OT1/ptm/m/it/10 line,obtuse,similar-length,convex], [line-line,right,a-bit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
+\OT1/ptm/m/it/10 longer,concave], [line-line,obtuse,a-bit-shorter,concave],
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 486--497
 \OT1/ptm/m/it/10 [line-line,right,similar-length,convex], [line-line,right,half
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--485
-\OT1/ptm/m/it/10 length,convex], [line-line,right,a-bit-shorter,convex],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 482--485
-\OT1/ptm/m/it/10 [line-line,right,a-bit-longer,convex], [line-line,right,much-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 487--493
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--493
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
 
  []
 
-<images/quad_gran_restat.jpg, id=38, 642.4pt x 401.5pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--497
+
+ []
+
+<images/quad_gran_restat.jpg, id=38, 277.035pt x 225.84375pt>
 File: images/quad_gran_restat.jpg Graphic file (type jpg)
 
 <use images/quad_gran_restat.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 497--498
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
+\OT1/ptm/m/it/10 shorter,convex], [line-line,right,a-bit-shorter,convex],
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
-\OT1/ptm/m/it/10 [line-line,right,a-bit-shorter,concave], [line-
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
+\OT1/ptm/m/it/10 [line-line,right,a-bit-shorter,convex], [line-line,right,a-bit
+-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
-\OT1/ptm/m/it/10 line,obtuse,similar-length,convex], [line-line,right,similar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
-\OT1/ptm/m/it/10 length,concave], [line-line,right,much-shorter,concave],
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 502--507
-\OT1/ptm/m/it/10 [line-line,right,a-bit-shorter,concave], [line-line,right,a-bi
-t-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--507
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
 
  []
 
 File: images/quad_menut.jpg Graphic file (type jpg)
 <use images/quad_menut.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 511--512
- [][] 
- []
 
-[7 <./images/quad_punta.jpg> <./images/res3.jpg> <./images/quad_gran_restat.jpg
->] <images/res4.jpg, id=43, 642.4pt x 401.5pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/res4.jpg, id=39, 275.0275pt x 237.88875pt>
 File: images/res4.jpg Graphic file (type jpg)
  <use images/res4.jpg>
-Overfull \hbox (16.08875pt too wide) in paragraph at lines 524--525
- [][] 
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 516--528
+Underfull \hbox (badness 1917) in paragraph at lines 520--532
 \OT1/ptm/m/it/10 [line-line, right, a-bit-longer, con-vex], [line-line, right,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--528
+Underfull \hbox (badness 10000) in paragraph at lines 520--532
 
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 529--534
-\OT1/ptm/m/it/10 [line-line,right,much-shorter,convex], [line-line,right,a-bit-
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
+\OT1/ptm/m/it/10 shorter,convex], [line-line,right,a-bit-shorter,convex],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
+\OT1/ptm/m/it/10 length,convex], [line-line,obtuse,much-longer,concave],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
+\OT1/ptm/m/it/10 [line-line,obtuse,much-shorter,convex], [line-line,obtuse,a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
-\OT1/ptm/m/it/10 line,right,similar-length,convex], [line-line,obtuse,much-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
-\OT1/ptm/m/it/10 longer,concave], [line-line,obtuse,much-shorter,convex],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
-\OT1/ptm/m/it/10 [line-line,obtuse,a-bit-shorter,concave], [line-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
+Underfull \hbox (badness 10000) in paragraph at lines 533--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--534
+Underfull \hbox (badness 10000) in paragraph at lines 540--559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--547
+Underfull \hbox (badness 10000) in paragraph at lines 540--559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--547
+Underfull \hbox (badness 3803) in paragraph at lines 540--559
+\OT1/ptm/m/n/10 Altres mi-llo-res se-ri-en la pos-si-bi-li-tat de res-tar fi-gu
+-res
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--559
+
+ []
+
+[7 <./images/res3.jpg> <./images/quad_gran_restat.jpg> <./images/res4.jpg>]
+Underfull \hbox (badness 1178) in paragraph at lines 561--577
+\OT1/ptm/m/n/10 -[Jordan01] Jor-dan M. I. and Rus-sel S., Com-pu-ta-ti-o-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--577
 
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 536--547
-\OT1/ptm/m/n/10 Per []ultim la in-te-gra-ci[]o de fi-gu-res en cur-ves []es un 
-pas
+Underfull \hbox (badness 1009) in paragraph at lines 561--577
+\OT1/ptm/m/n/10 -[Museros07] L. Mu-se-ros. Qua-li-ta-ti-ve the-ory on sha-pe
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
+Underfull \hbox (badness 1762) in paragraph at lines 561--577
+\OT1/ptm/m/n/10 re-pre-sen-ta-ti-on. ap-pli-ca-ti-on to in-dus-tri-al ma-nu-fac
+-tu-ring,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--577
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
+Underfull \hbox (badness 1430) in paragraph at lines 561--577
+\OT1/ptm/m/n/10 Fa-lo-mir. A Qua-li-ta-ti-ve Sha-pe Des-crip-ti-on Sc-he-me for
 
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 549--559
+Underfull \hbox (badness 10000) in paragraph at lines 561--577
+
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 561--577
 \OT1/ptm/m/n/10 -[Zoe11] Zoe Fa-lo-mir Llan-so-la. Qua-li-ta-ti-ve Dis-tan-ces
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--559
+Underfull \hbox (badness 10000) in paragraph at lines 561--577
 
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 549--559
-\OT1/ptm/m/n/10 -[Mus09] C4R2 No Ins-ti-tu-te Gi-ven In-for-me tec-ni-co.
+Underfull \hbox (badness 10000) in paragraph at lines 561--577
+
  []
 
-[8 <./images/res4.jpg>] (./memIA.aux)
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+Underfull \hbox (badness 1968) in paragraph at lines 561--577
+\OT1/ptm/m/n/10 -[Garcia] T[]^^Ptol: Sis-te-ma Re-co-ma-na-dor amb Or-dres de
+ []
 
+[8
+
+] (./memIA.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  1681 strings out of 494999
- 20527 string characters out of 1180816
- 83981 words of memory out of 3000000
+ 20513 string characters out of 1180816
+ 83965 words of memory out of 3000000
  4852 multiletter control sequences out of 15000+50000
- 19005 words of font info for 40 fonts, out of 3000000 for 9000
+ 18748 words of font info for 39 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 25i,13n,24p,444b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,13n,24p,436b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
 ve/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/
 share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on memIA.pdf (8 pages, 233905 bytes).
+Output written on memIA.pdf (8 pages, 248187 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

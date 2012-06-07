@@ -1,0 +1,494 @@
+#include "juxtaposi.h"
+#include "figura.cpp"
+using namespace std;
+
+string Anterior[3][3] = {
+    {"{smaller,equal,bigger}", "{smaller,equal,bigger}", "{smaller,equal,bigger}"},
+    {"bigger", "bigger", "bigger"},
+    {"bigger", "bigger", "bigger"}
+};
+
+string Posterior[3][3] = {
+    {"{smaller,equal,bigger}", "{smaller,equal,bigger}", "{smaller,equal,bigger}"},
+    {"smaller", "smaller", "smaller"},
+    {"smaller", "smaller", "smaller"}
+};
+
+string Angle[4][4] = {
+
+    {"{acute-angle,right-angle,obtuse-angle}", "obtuse-angle", "obtuse-angle", "NULL"},
+    {"obtuse-angle", "obtuse-angle", "obtuse-angle", "NULL"},
+    {"obtuse-angle", "obtuse-angle", "obtuse-angle", "NULL"},
+    {"NULL", "NULL", "NULL", "curve"}
+};
+
+string Costat[3][3] = {
+
+    {"smaller", "smaller", "{smaller,equal,bigger}"},
+    {"smaller", "equal", "bigger"},
+    {"{smaller,equal,bigger}", "bigger", "bigger"}
+};
+
+string Convc[4][4] = {
+
+    {"NULL", "concave", "concave", "concave"},
+    {"concave", "convex", "convex", "{convex,NULL}"},
+    {"concave", "convex", "NULL", "concave"},
+    {"concave", "{convex,NULL}", "concave", "concave"}
+};
+
+int Resta::IdentificaAngle(string angl) {
+
+
+    int an;
+
+    if (angl == "acute-angle" || angl == "acute") {
+        an = 0;
+    } else
+        if (angl == "right-angle" || angl == "right") {
+        an = 1;
+    } else
+        if (angl == "obtuse-angle" || angl == "obtuse") {
+        an = 2;
+    } else
+        if (angl == "curve") {
+        an = 3;
+    }
+
+    return an;
+
+}
+
+int Resta::IdentificaConcv(string concv, string angl) {
+
+    int cv = 0;
+    int i_ang = IdentificaAngle(angl);
+    if (concv == "concave" && i_ang != 3) {
+        cv = 0;
+    } else
+        if (concv == "convex" && i_ang == 0) {
+        cv = 1;
+    } else
+        if (concv == "convex" && i_ang == 1) {
+        cv = 2;
+    } else
+        if (concv == "convex" && i_ang == 2) {
+        cv = 3;
+    }
+
+    return cv;
+
+}
+
+int Resta::IdentificaCostat(string cost) {
+
+    int cs;
+
+    if (cost == "smaller") {
+        cs = 0;
+    } else
+        if (cost == "equal") {
+        cs = 1;
+    } else
+        if (cost == "bigger") {
+        cs = 2;
+    }
+
+    return cs;
+
+}
+
+Resta::Resta() {
+
+}
+
+Resta::~Resta() {
+
+}
+
+Resta::Resta(string fig1_, string fig2_,string ruta1_, string ruta2_) {
+    fig1 = fig1_;
+    fig2 = fig2_;
+    ruta1=ruta1_;
+    ruta2=ruta2_;
+    cout<<"Figura 1:"<<fig1<<endl;
+    cout<<"Figura 2"<<fig2<<endl;
+     cout<<"Ruta 1:"<<ruta1<<endl;
+      // cout<<"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacv"<<endl;
+     cout<<"Ruta 2"<<ruta2<<endl;
+  
+
+
+}
+
+vector <string> direccio_desplasament(int un1, int un2, vector<string> pos_forat, int num_fig) {
+
+
+    int matdespx[4][5] = {
+        {2, 6, 0, 4},
+        {0, 6, 0, 6},
+        {3, 5, 2, 3},
+        {4, 4, 2, 2}
+    };
+    int matdespy[4][5] = {
+        {2, 6, 0, 4},
+        {0, 6, 0, 6},
+        {3, 5, 1, 3},
+        {4, 4, 2, 2}
+    };
+    int matforatsx[3][7][3] = {
+        {
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 1, 0},
+            {1, 0, 0},
+            {0, 1, 1}
+        },
+        {
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 1, 0},
+            {0, 1, 0},
+            {0, 1, 1},
+            {0, 0, 1},
+            {0, 0, 1}
+        },
+        {
+            {1, 1, 0},
+            {0, 1, 1},
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 0, 1}
+        }
+    };
+    int matforatsy[3][7][3] = {
+        {
+            {0, 1, 1},
+            {1, 1, 0},
+            {1, 1, 0},
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 0, 0},
+            {1, 0, 0}
+        },
+        {
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 1, 1},
+            {0, 1, 0},
+            {1, 1, 0},
+            {1, 0, 0},
+            {1, 0, 0}
+        },
+        {
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 0, 1},
+            {0, 1, 1},
+            {0, 1, 1},
+            {1, 1, 0}
+        }
+    };
+    string matorientacions[3][3] = {
+        {"NW", "N", "NE"},
+        {"W", "C", "E"},
+        {"SW", "S", "SE"}
+    };
+    vector<float> v1_x;
+    vector<float> v1_y;
+    vector<float> v2_x;
+    vector<float> v2_y;
+    int resultat[3][3] = {
+        {0, 0, 0},
+        {0, 0, 0},
+        {0, 0, 0}
+    };
+    int despx, despy;
+
+    int absXa, absXb, absYa, absYb, posx, posy;
+
+    int Xa;
+    int Ya;
+
+    int Xb;
+    int Yb;
+    int m;
+    char cadena[128];
+
+
+    ifstream fe("../vertex1.txt");
+
+    // Leeremos mediante getline, si lo hiciÃ©ramos
+    // mediante el operador >> sÃ³lo leerÃ­amos
+    // parte de la cadena:
+    fe.getline(cadena, 128);
+
+
+    int n_ver = atoi(cadena);
+
+    for (int aux = 0; aux < n_ver + 1; aux++) {
+        char aux_x[128], aux_y[128];
+        fe.getline(aux_x, 128);
+        v1_x.push_back(atoi(aux_x));
+        fe.getline(aux_y, 128);
+        v1_y.push_back(atoi(aux_y));
+
+
+    }
+
+    fe.close();
+    ifstream fe2("../vertex2.txt");
+
+    // Leeremos mediante getline, si lo hiciÃ©ramos
+    // mediante el operador >> sÃ³lo leerÃ­amos
+    // parte de la cadena:
+    fe2.getline(cadena, 128);
+
+    n_ver = atoi(cadena);
+
+    for (int aux = 0; aux < n_ver + 1; aux++) {
+        char aux_x[128], aux_y[128];
+        fe2.getline(aux_x, 128);
+        v2_x.push_back(atoi(aux_x));
+        fe2.getline(aux_y, 128);
+        v2_y.push_back(atoi(aux_y));
+
+
+    }
+
+    fe2.close();
+
+    int cx1 = 0;
+    int cx2 = 0;
+    int cy1 = 0;
+    int cy2 = 0;
+
+    if (num_fig == 1) {
+
+        cx1 = v1_x.back();
+        cx2 = v2_x.back();
+        cy1 = v1_y.back();
+        cy2 = v2_y.back();
+    } else if (num_fig == 2) {
+        cx2 = v1_x.back();
+        cx1 = v2_x.back();
+        cy2 = v1_y.back();
+        cy1 = v2_y.back();
+
+
+
+    }
+
+    Xa = cx1 - v1_x[un1 - 1];
+    Ya = cy1 - v1_y[un1 - 1];
+
+    Xb = cx2 - v2_x[un2 - 1];
+    Yb = cy2 - v2_y[un2 - 1];
+
+    //  m = min(abs(v1_x[un1 - 1] - v1_x[un1]), abs(v1_y[un1 - 1] - v1_y[un1])) / 6;
+    m = 20;
+
+    absXa = abs(Xa);
+    absXb = abs(Xb);
+    absYa = abs(Ya);
+    absYb = abs(Yb);
+
+    posx = 0;
+    posy = 0;
+
+
+    if (absXa < absXb) {
+        if (2 * absXa < absXb)
+            posx = 1;
+        else if (absXa + m < absXb)
+            posx = 0;
+        else
+            posx = 2;
+    } else {
+        if (absXa < absXb + m)
+            posx = 2;
+        else
+            posx = 3;
+
+    }
+    if (Xa > 0) {
+        if (Xb > 0)
+            posy = 0;
+        else
+            posy = 1;
+    } else {
+        if (Xb > 0)
+            posy = 2;
+        else
+            posy = 3;
+    }
+    despx = matdespx[posx][posy];
+
+
+    if (absYa < absYb) {
+        if (2 * absYa < Yb)
+            posx = 1;
+        else if (absYa < absYb - m)
+            posx = 2;
+        else
+            posx = 0;
+    } else {
+        if (absYa + m < absYb)
+            posx = 3;
+        else
+            posx = 2;
+    }
+    if (Ya > 0) {
+        if (Yb > 0)
+            posy = 3;
+        else
+            posy = 2;
+    } else {
+        if (Yb > 0)
+            posy = 1;
+        else
+            posy = 0;
+    }
+
+    despy = matdespy[posx][posy];
+
+
+
+    for (int i = 0; i < pos_forat.size(); i++) {
+        if ((pos_forat[i] == "NW") | (pos_forat[i] == "W") | (pos_forat[i] == "SW")) {
+            posx = 0;
+        } else {
+            if (("N" == pos_forat[i]) | ("C" == pos_forat[i]) | ("S" == pos_forat[i])) {
+
+                posx = 1;
+            } else
+                posx = 2;
+        }
+
+        if (("NW" == pos_forat[i]) | ("N" == pos_forat[i]) | ("NE" == pos_forat[i])) {
+            posy = 0;
+        } else {
+            if (("W" == pos_forat[i]) | ("C" == pos_forat[i]) | ("E" == pos_forat[i])) {
+                posy = 1;
+
+            } else
+                posy = 2;
+        }
+    }
+
+
+
+    for (int j = 0; j < 3; j++)
+        if (matforatsx[posx][despx][j] == 1)
+            for (int k = 0; k < 3; k++)
+                if (matforatsy[posy][despy][k] == 1) {
+
+                    resultat[k][j] = 1;
+                }
+    vector <string> resul;
+    for (int j = 0; j < 3; j++)
+        for (int k = 0; k < 3; k++) {
+
+            if (resultat[j][k] == 1) {
+                resul.push_back(matorientacions[j][k]);
+
+            }
+
+        }
+
+
+
+
+    return resul;
+}
+
+void Resta::operacio() {
+	
+    //primera figura
+  /*
+int tub[2];
+  pipe(tub);
+ FILE *stream;
+    char c;
+
+
+    
+  if(fork()==0){
+    if(fork()==0){
+      close(1);
+      close(tub[0]);
+      dup(tub[1]);
+      int ret;
+      char *cmd[] = { "./resta",(char *)0 };
+      ret = execv ("./resta", cmd);
+      close(tub[1]);
+    }
+    
+    else{
+      sleep(1);
+    }
+    exit(0);
+  }
+  else{
+    ofstream fs("eixida.txt");
+
+    close(tub[1]);
+
+    stream = fdopen (tub[0], "r");
+    while ((c = fgetc (stream)) != EOF){
+       fs << c ;
+       cout<<c;
+    }
+    fs.close();
+
+    fclose (stream);
+    close(tub[0]);
+    */
+  //char *Nombre_figura1 = "gran.jpg";
+  char *Nombre_figura1 ;
+
+  //char *buf = new char[strlen(ruta1)];
+  //strcpy(buf,ruta1);
+
+  Nombre_figura1 =(char *)ruta1.c_str();
+
+  cout<<"antes"<<endl;
+  //char *Nombre_figura1 = "quad2.jpg";
+  Figura *fig1;
+  fig1=LeerFigura(Nombre_figura1);
+  //fig1->mostrar();
+  fig1->PonerEnElEje();
+  cout<<"------------------------------------------------------------"<<endl;
+  cout<<"Figura 1"<<endl;
+  fig1->mostrar();
+
+  Figura *fig2;
+  char *Nombre_figura2 = (char *) ruta2.c_str();
+  //char *Nombre_figura2 = "quad.jpg";
+  fig2=LeerFigura(Nombre_figura2);
+  //fig2->mostrar();
+  fig2->PonerEnElEje();
+  cout<<"------------------------------------------------------------"<<endl;
+  cout<<"Figura 2"<<endl;
+  fig2->mostrar();
+
+  Figura *fig3;
+  fig3 = Restar(fig1,fig2);
+  cout<<"------------------------------------------------------------"<<endl;
+  cout<<"Figura 3 = Figura 1 - Figura 2"<<endl;
+  fig3->mostrar();
+
+  cout<<endl<<"jijaju"<<endl;
+  
+
+  
+    
+}
+
+
+
